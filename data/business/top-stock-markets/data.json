@@ -1,0 +1,122 @@
+[
+  {
+    "full_name": "New York Stock Exchange",
+    "short_name": "NYSE",
+    "region": "United States"
+  },
+  {
+    "full_name": "Nasdaq",
+    "short_name": "NASDAQ",
+    "region": "United States"
+  },
+  {
+    "full_name": "Japan Exchange Group",
+    "short_name": "JPX",
+    "region": "Japan"
+  },
+  {
+    "full_name": "London Stock Exchange",
+    "short_name": "LSE",
+    "region": "United Kingdom"
+  },
+  {
+    "full_name": "Shanghai Stock Exchange",
+    "short_name": "SSE",
+    "region": "China"
+  },
+  {
+    "full_name": "Hong Kong Stock Exchange",
+    "short_name": "SEHK",
+    "region": "Hong Kong"
+  },
+  {
+    "full_name": "Shenzhen Stock Exchange",
+    "short_name": "SZSE",
+    "region": "China"
+  },
+  {
+    "full_name": "Toronto Stock Exchange",
+    "short_name": "TSX",
+    "region": "Canada"
+  },
+  {
+    "full_name": "Bombay Stock Exchange",
+    "short_name": "BSE",
+    "region": "India"
+  },
+  {
+    "full_name": "National Stock Exchange",
+    "short_name": "NSE",
+    "region": "India"
+  },
+  {
+    "full_name": "Korea Exchange",
+    "short_name": "KRX",
+    "region": "South Korea"
+  },
+  {
+    "full_name": "Nasdaq Nordic Exchanges",
+    "short_name": "Nasdaq Nordic Exchanges",
+    "region": "Nasdaq Nordic Exchanges"
+  },
+  {
+    "full_name": "Copenhagen Stock Exchange",
+    "short_name": "formerly CSE",
+    "region": "Denmark"
+  },
+  {
+    "full_name": "Helsinki Stock Exchange",
+    "short_name": "formerly OMXH",
+    "region": "Finland"
+  },
+  {
+    "full_name": "Vilnius Stock Exchange",
+    "short_name": "VSE",
+    "region": "Lithuania"
+  },
+  {
+    "full_name": "Iceland Stock Exchange",
+    "short_name": "ICEX",
+    "region": "Iceland"
+  },
+  {
+    "full_name": "Armenia Securities Exchange",
+    "short_name": "AMX",
+    "region": "Armenia"
+  },
+  {
+    "full_name": "Australian Securities Exchange",
+    "short_name": "ASX",
+    "region": "Australia"
+  },
+  {
+    "full_name": "Taiwan Stock Exchange",
+    "short_name": "TWSE",
+    "region": "Taiwan"
+  },
+  {
+    "full_name": "Bolsas y Mercados Españoles",
+    "short_name": "BME",
+    "region": "Spain"
+  },
+  {
+    "full_name": "Singapore Exchange",
+    "short_name": "SGX",
+    "region": "Singapore"
+  },
+  {
+    "full_name": "Moscow Exchange",
+    "short_name": "MISX / MOEX",
+    "region": "Russia"
+  },
+  {
+    "full_name": "Stock Exchange of Thailand",
+    "short_name": "SET",
+    "region": "Thailand"
+  },
+  {
+    "full_name": "Indonesia Stock Exchange",
+    "short_name": "IDX",
+    "region": "Indonesia"
+  }
+]
