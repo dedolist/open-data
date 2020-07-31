@@ -1,0 +1,5402 @@
+[
+    {
+      "area-code": 204,
+      "city": "Winnipeg",
+      "province": "Manitoba",
+      "country": "CA",
+      "latitude": 49.8844,
+      "longitude": -97.14704
+    },
+    {
+      "area-code": 204,
+      "city": "Portage la Prairie",
+      "province": "Manitoba",
+      "country": "CA",
+      "latitude": 49.97282,
+      "longitude": -98.29263
+    },
+    {
+      "area-code": 204,
+      "city": "Flin Flon",
+      "province": "Manitoba",
+      "country": "CA",
+      "latitude": 54.76824,
+      "longitude": -101.86497
+    },
+    {
+      "area-code": 204,
+      "city": "Steinbach",
+      "province": "Manitoba",
+      "country": "CA",
+      "latitude": 49.52579,
+      "longitude": -96.68451
+    },
+    {
+      "area-code": 204,
+      "city": "Thompson",
+      "province": "Manitoba",
+      "country": "CA",
+      "latitude": 55.7435,
+      "longitude": -97.85579
+    },
+    {
+      "area-code": 204,
+      "city": "Winkler",
+      "province": "Manitoba",
+      "country": "CA",
+      "latitude": 49.1817,
+      "longitude": -97.94104
+    },
+    {
+      "area-code": 204,
+      "city": "Brandon",
+      "province": "Manitoba",
+      "country": "CA",
+      "latitude": 49.84692,
+      "longitude": -99.95306
+    },
+    {
+      "area-code": 204,
+      "city": "Selkirk",
+      "province": "Manitoba",
+      "country": "CA",
+      "latitude": 50.1436,
+      "longitude": -96.88452
+    },
+    {
+      "area-code": 204,
+      "city": "Morden",
+      "province": "Manitoba",
+      "country": "CA",
+      "latitude": 49.1919,
+      "longitude": -98.10136
+    },
+    {
+      "area-code": 204,
+      "city": "Dauphin",
+      "province": "Manitoba",
+      "country": "CA",
+      "latitude": 51.14941,
+      "longitude": -100.05023
+    },
+    {
+      "area-code": 204,
+      "city": "The Pas",
+      "province": "Manitoba",
+      "country": "CA",
+      "latitude": 53.82509,
+      "longitude": -101.25413
+    },
+    {
+      "area-code": 226,
+      "city": "Orangeville",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.9168,
+      "longitude": -80.09967
+    },
+    {
+      "area-code": 226,
+      "city": "Guelph",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.54594,
+      "longitude": -80.25599
+    },
+    {
+      "area-code": 226,
+      "city": "Brantford",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.1334,
+      "longitude": -80.26636
+    },
+    {
+      "area-code": 226,
+      "city": "London",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 42.98339,
+      "longitude": -81.23304
+    },
+    {
+      "area-code": 226,
+      "city": "St. Thomas",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 42.77361,
+      "longitude": -81.18038
+    },
+    {
+      "area-code": 226,
+      "city": "Kitchener",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.42537,
+      "longitude": -80.5112
+    },
+    {
+      "area-code": 226,
+      "city": "Windsor",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 42.30008,
+      "longitude": -83.01654
+    },
+    {
+      "area-code": 226,
+      "city": "Goderich",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.75008,
+      "longitude": -81.71648
+    },
+    {
+      "area-code": 226,
+      "city": "Paris",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.2,
+      "longitude": -80.38333
+    },
+    {
+      "area-code": 226,
+      "city": "Woodstock",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.13339,
+      "longitude": -80.7497
+    },
+    {
+      "area-code": 226,
+      "city": "Sarnia",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 42.97866,
+      "longitude": -82.40407
+    },
+    {
+      "area-code": 226,
+      "city": "Owen Sound",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.56717,
+      "longitude": -80.94349
+    },
+    {
+      "area-code": 226,
+      "city": "Stratford",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.36679,
+      "longitude": -80.94972
+    },
+    {
+      "area-code": 226,
+      "city": "Aylmer",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 42.76679,
+      "longitude": -80.98302
+    },
+    {
+      "area-code": 226,
+      "city": "Hanover",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.15009,
+      "longitude": -81.03303
+    },
+    {
+      "area-code": 226,
+      "city": "Petrolia",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 42.86678,
+      "longitude": -82.14981
+    },
+    {
+      "area-code": 226,
+      "city": "Amherstburg",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 42.11679,
+      "longitude": -83.04985
+    },
+    {
+      "area-code": 236,
+      "city": "Victoria",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 48.43294,
+      "longitude": -123.3693
+    },
+    {
+      "area-code": 236,
+      "city": "Aldergrove",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.05801,
+      "longitude": -122.47087
+    },
+    {
+      "area-code": 236,
+      "city": "West Vancouver",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.36672,
+      "longitude": -123.16652
+    },
+    {
+      "area-code": 236,
+      "city": "White Rock",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.01636,
+      "longitude": -122.8026
+    },
+    {
+      "area-code": 236,
+      "city": "Richmond",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.17003,
+      "longitude": -123.13683
+    },
+    {
+      "area-code": 236,
+      "city": "Prince George",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 53.9166,
+      "longitude": -122.75301
+    },
+    {
+      "area-code": 236,
+      "city": "Cranbrook",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.49991,
+      "longitude": -115.76879
+    },
+    {
+      "area-code": 236,
+      "city": "West Kelowna",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.8625,
+      "longitude": -119.58333
+    },
+    {
+      "area-code": 236,
+      "city": "Kamloops",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 50.66648,
+      "longitude": -120.3192
+    },
+    {
+      "area-code": 236,
+      "city": "Penticton",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.48062,
+      "longitude": -119.58584
+    },
+    {
+      "area-code": 236,
+      "city": "Quesnel",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 52.97842,
+      "longitude": -122.4931
+    },
+    {
+      "area-code": 236,
+      "city": "Vernon",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 50.26729,
+      "longitude": -119.27337
+    },
+    {
+      "area-code": 236,
+      "city": "Nelson",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.49985,
+      "longitude": -117.28553
+    },
+    {
+      "area-code": 236,
+      "city": "Salmon Arm",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 50.6998,
+      "longitude": -119.30237
+    },
+    {
+      "area-code": 236,
+      "city": "Terrace",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 54.51634,
+      "longitude": -128.60345
+    },
+    {
+      "area-code": 236,
+      "city": "Williams Lake",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 52.14153,
+      "longitude": -122.14451
+    },
+    {
+      "area-code": 236,
+      "city": "Duncan",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 48.78293,
+      "longitude": -123.70266
+    },
+    {
+      "area-code": 249,
+      "city": "Bracebridge",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 45.03341,
+      "longitude": -79.31633
+    },
+    {
+      "area-code": 249,
+      "city": "Parry Sound",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 45.34732,
+      "longitude": -80.03527
+    },
+    {
+      "area-code": 249,
+      "city": "Collingwood",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.4834,
+      "longitude": -80.21638
+    },
+    {
+      "area-code": 249,
+      "city": "Greater Sudbury",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 46.49,
+      "longitude": -80.99001
+    },
+    {
+      "area-code": 249,
+      "city": "Midland",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.7501,
+      "longitude": -79.88296
+    },
+    {
+      "area-code": 249,
+      "city": "Timmins",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 48.46686,
+      "longitude": -81.33312
+    },
+    {
+      "area-code": 249,
+      "city": "North Bay",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 46.3168,
+      "longitude": -79.46633
+    },
+    {
+      "area-code": 249,
+      "city": "Peterborough",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.30012,
+      "longitude": -78.31623
+    },
+    {
+      "area-code": 249,
+      "city": "Orillia",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.60868,
+      "longitude": -79.42068
+    },
+    {
+      "area-code": 249,
+      "city": "Barrie",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.40011,
+      "longitude": -79.66634
+    },
+    {
+      "area-code": 249,
+      "city": "Huntsville",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 45.33341,
+      "longitude": -79.21632
+    },
+    {
+      "area-code": 249,
+      "city": "Temiskaming Shores",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 47.49376,
+      "longitude": -79.71529
+    },
+    {
+      "area-code": 249,
+      "city": "Kirkland Lake",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 48.14461,
+      "longitude": -80.03767
+    },
+    {
+      "area-code": 249,
+      "city": "Kapuskasing",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 49.41694,
+      "longitude": -82.43308
+    },
+    {
+      "area-code": 250,
+      "city": "Revelstoke",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 50.98317,
+      "longitude": -118.2023
+    },
+    {
+      "area-code": 250,
+      "city": "Campbell River",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 50.01634,
+      "longitude": -125.24459
+    },
+    {
+      "area-code": 250,
+      "city": "Port Alberni",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.24133,
+      "longitude": -124.8028
+    },
+    {
+      "area-code": 250,
+      "city": "Courtenay",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.68657,
+      "longitude": -124.9936
+    },
+    {
+      "area-code": 250,
+      "city": "Victoria",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 48.43294,
+      "longitude": -123.3693
+    },
+    {
+      "area-code": 250,
+      "city": "West Kelowna",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.8625,
+      "longitude": -119.58333
+    },
+    {
+      "area-code": 250,
+      "city": "Kamloops",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 50.66648,
+      "longitude": -120.3192
+    },
+    {
+      "area-code": 250,
+      "city": "Dawson Creek",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 55.75984,
+      "longitude": -120.2403
+    },
+    {
+      "area-code": 250,
+      "city": "Fort St. John",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 56.24988,
+      "longitude": -120.85292
+    },
+    {
+      "area-code": 250,
+      "city": "Parksville",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.31947,
+      "longitude": -124.31575
+    },
+    {
+      "area-code": 250,
+      "city": "Trail",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.09983,
+      "longitude": -117.70223
+    },
+    {
+      "area-code": 250,
+      "city": "Vernon",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 50.26729,
+      "longitude": -119.27337
+    },
+    {
+      "area-code": 250,
+      "city": "Nanaimo",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.16638,
+      "longitude": -123.94003
+    },
+    {
+      "area-code": 250,
+      "city": "Ladysmith",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 48.99016,
+      "longitude": -123.81699
+    },
+    {
+      "area-code": 250,
+      "city": "Duncan",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 48.78293,
+      "longitude": -123.70266
+    },
+    {
+      "area-code": 250,
+      "city": "Salmon Arm",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 50.6998,
+      "longitude": -119.30237
+    },
+    {
+      "area-code": 250,
+      "city": "Quesnel",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 52.97842,
+      "longitude": -122.4931
+    },
+    {
+      "area-code": 250,
+      "city": "Williams Lake",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 52.14153,
+      "longitude": -122.14451
+    },
+    {
+      "area-code": 250,
+      "city": "Penticton",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.48062,
+      "longitude": -119.58584
+    },
+    {
+      "area-code": 250,
+      "city": "Prince George",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 53.9166,
+      "longitude": -122.75301
+    },
+    {
+      "area-code": 250,
+      "city": "Fernie",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.49996,
+      "longitude": -115.06871
+    },
+    {
+      "area-code": 250,
+      "city": "Kitimat",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 54.05244,
+      "longitude": -128.65342
+    },
+    {
+      "area-code": 250,
+      "city": "Merritt",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 50.11225,
+      "longitude": -120.7942
+    },
+    {
+      "area-code": 250,
+      "city": "Castlegar",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.29984,
+      "longitude": -117.66894
+    },
+    {
+      "area-code": 250,
+      "city": "Nelson",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.49985,
+      "longitude": -117.28553
+    },
+    {
+      "area-code": 250,
+      "city": "Summerland",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.59977,
+      "longitude": -119.66911
+    },
+    {
+      "area-code": 250,
+      "city": "Cranbrook",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.49991,
+      "longitude": -115.76879
+    },
+    {
+      "area-code": 250,
+      "city": "Kimberley",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.67071,
+      "longitude": -115.9776
+    },
+    {
+      "area-code": 250,
+      "city": "North Saanich",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 48.66634,
+      "longitude": -123.41933
+    },
+    {
+      "area-code": 250,
+      "city": "Terrace",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 54.51634,
+      "longitude": -128.60345
+    },
+    {
+      "area-code": 250,
+      "city": "Prince Rupert",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 54.31507,
+      "longitude": -130.32098
+    },
+    {
+      "area-code": 250,
+      "city": "Sooke",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 48.37463,
+      "longitude": -123.72762
+    },
+    {
+      "area-code": 250,
+      "city": "Smithers",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 54.78036,
+      "longitude": -127.17428
+    },
+    {
+      "area-code": 289,
+      "city": "Ajax",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.85012,
+      "longitude": -79.03288
+    },
+    {
+      "area-code": 289,
+      "city": "Brampton",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.68341,
+      "longitude": -79.76633
+    },
+    {
+      "area-code": 289,
+      "city": "Ancaster",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.21806,
+      "longitude": -79.98716
+    },
+    {
+      "area-code": 289,
+      "city": "Burlington",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.38621,
+      "longitude": -79.83713
+    },
+    {
+      "area-code": 289,
+      "city": "St. Catharines",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.17126,
+      "longitude": -79.24267
+    },
+    {
+      "area-code": 289,
+      "city": "Cobourg",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.95977,
+      "longitude": -78.16515
+    },
+    {
+      "area-code": 289,
+      "city": "Oakville",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.45011,
+      "longitude": -79.68292
+    },
+    {
+      "area-code": 289,
+      "city": "Oshawa",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.90012,
+      "longitude": -78.84957
+    },
+    {
+      "area-code": 289,
+      "city": "Pickering",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.90012,
+      "longitude": -79.13289
+    },
+    {
+      "area-code": 289,
+      "city": "Newmarket",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.05011,
+      "longitude": -79.46631
+    },
+    {
+      "area-code": 289,
+      "city": "Hamilton",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.25011,
+      "longitude": -79.84963
+    },
+    {
+      "area-code": 289,
+      "city": "Niagara Falls",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.10012,
+      "longitude": -79.06627
+    },
+    {
+      "area-code": 289,
+      "city": "Fort Erie",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 42.90012,
+      "longitude": -78.93286
+    },
+    {
+      "area-code": 289,
+      "city": "Richmond Hill",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.87111,
+      "longitude": -79.43725
+    },
+    {
+      "area-code": 289,
+      "city": "Milton",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.51681,
+      "longitude": -79.88294
+    },
+    {
+      "area-code": 289,
+      "city": "Markham",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.86682,
+      "longitude": -79.2663
+    },
+    {
+      "area-code": 289,
+      "city": "Welland",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 42.98342,
+      "longitude": -79.24958
+    },
+    {
+      "area-code": 289,
+      "city": "Uxbridge",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.10012,
+      "longitude": -79.11628
+    },
+    {
+      "area-code": 289,
+      "city": "Port Colborne",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 42.90012,
+      "longitude": -79.23288
+    },
+    {
+      "area-code": 289,
+      "city": "Keswick",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.25011,
+      "longitude": -79.46632
+    },
+    {
+      "area-code": 306,
+      "city": "Regina",
+      "province": "Saskatchewan",
+      "country": "CA",
+      "latitude": 50.45008,
+      "longitude": -104.6178
+    },
+    {
+      "area-code": 306,
+      "city": "Saskatoon",
+      "province": "Saskatchewan",
+      "country": "CA",
+      "latitude": 52.11679,
+      "longitude": -106.63452
+    },
+    {
+      "area-code": 306,
+      "city": "North Battleford",
+      "province": "Saskatchewan",
+      "country": "CA",
+      "latitude": 52.77972,
+      "longitude": -108.2967
+    },
+    {
+      "area-code": 306,
+      "city": "Moose Jaw",
+      "province": "Saskatchewan",
+      "country": "CA",
+      "latitude": 50.40005,
+      "longitude": -105.53445
+    },
+    {
+      "area-code": 306,
+      "city": "Melfort",
+      "province": "Saskatchewan",
+      "country": "CA",
+      "latitude": 52.86673,
+      "longitude": -104.61768
+    },
+    {
+      "area-code": 306,
+      "city": "Lloydminster",
+      "province": "Saskatchewan",
+      "country": "CA",
+      "latitude": 53.28346,
+      "longitude": -110.00157
+    },
+    {
+      "area-code": 306,
+      "city": "Estevan",
+      "province": "Saskatchewan",
+      "country": "CA",
+      "latitude": 49.13337,
+      "longitude": -102.98422
+    },
+    {
+      "area-code": 306,
+      "city": "Prince Albert",
+      "province": "Saskatchewan",
+      "country": "CA",
+      "latitude": 53.20008,
+      "longitude": -105.76772
+    },
+    {
+      "area-code": 306,
+      "city": "Swift Current",
+      "province": "Saskatchewan",
+      "country": "CA",
+      "latitude": 50.28337,
+      "longitude": -107.80135
+    },
+    {
+      "area-code": 306,
+      "city": "Yorkton",
+      "province": "Saskatchewan",
+      "country": "CA",
+      "latitude": 51.2167,
+      "longitude": -102.46766
+    },
+    {
+      "area-code": 306,
+      "city": "Weyburn",
+      "province": "Saskatchewan",
+      "country": "CA",
+      "latitude": 49.66675,
+      "longitude": -103.85109
+    },
+    {
+      "area-code": 343,
+      "city": "Clarence-Rockland",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 45.5501,
+      "longitude": -75.29101
+    },
+    {
+      "area-code": 343,
+      "city": "Ottawa",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 45.41117,
+      "longitude": -75.69812
+    },
+    {
+      "area-code": 343,
+      "city": "Carleton Place",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 45.13341,
+      "longitude": -76.14938
+    },
+    {
+      "area-code": 343,
+      "city": "Brockville",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.59132,
+      "longitude": -75.68705
+    },
+    {
+      "area-code": 343,
+      "city": "Belleville",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.16682,
+      "longitude": -77.38277
+    },
+    {
+      "area-code": 343,
+      "city": "Kingston",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.22976,
+      "longitude": -76.48098
+    },
+    {
+      "area-code": 343,
+      "city": "Greater Napanee",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.25012,
+      "longitude": -76.94944
+    },
+    {
+      "area-code": 343,
+      "city": "Cornwall",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 45.01809,
+      "longitude": -74.72815
+    },
+    {
+      "area-code": 343,
+      "city": "Renfrew",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 45.46681,
+      "longitude": -76.68272
+    },
+    {
+      "area-code": 343,
+      "city": "Pembroke",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 45.81681,
+      "longitude": -77.11616
+    },
+    {
+      "area-code": 343,
+      "city": "Perth",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.90011,
+      "longitude": -76.24939
+    },
+    {
+      "area-code": 343,
+      "city": "Gananoque",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.33342,
+      "longitude": -76.16607
+    },
+    {
+      "area-code": 343,
+      "city": "Hawkesbury",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 45.60009,
+      "longitude": -74.61595
+    },
+    {
+      "area-code": 343,
+      "city": "Smiths Falls",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.90452,
+      "longitude": -76.02333
+    },
+    {
+      "area-code": 365,
+      "city": "Hamilton",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.25011,
+      "longitude": -79.84963
+    },
+    {
+      "area-code": 365,
+      "city": "Oshawa",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.90012,
+      "longitude": -78.84957
+    },
+    {
+      "area-code": 403,
+      "city": "Calgary",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 51.05011,
+      "longitude": -114.08529
+    },
+    {
+      "area-code": 403,
+      "city": "Taber",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 49.78703,
+      "longitude": -112.14603
+    },
+    {
+      "area-code": 403,
+      "city": "Red Deer",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 52.26682,
+      "longitude": -113.802
+    },
+    {
+      "area-code": 403,
+      "city": "Okotoks",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 50.72885,
+      "longitude": -113.98281
+    },
+    {
+      "area-code": 403,
+      "city": "Lethbridge",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 49.69999,
+      "longitude": -112.81856
+    },
+    {
+      "area-code": 403,
+      "city": "Airdrie",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 51.30011,
+      "longitude": -114.03528
+    },
+    {
+      "area-code": 403,
+      "city": "Rocky Mountain House",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 52.36683,
+      "longitude": -114.9188
+    },
+    {
+      "area-code": 403,
+      "city": "Stettler",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 52.31683,
+      "longitude": -112.71861
+    },
+    {
+      "area-code": 403,
+      "city": "Strathmore",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 51.05011,
+      "longitude": -113.38523
+    },
+    {
+      "area-code": 403,
+      "city": "High River",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 50.58341,
+      "longitude": -113.86867
+    },
+    {
+      "area-code": 403,
+      "city": "Coaldale",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 49.7167,
+      "longitude": -112.61854
+    },
+    {
+      "area-code": 403,
+      "city": "Brooks",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 50.58341,
+      "longitude": -111.88509
+    },
+    {
+      "area-code": 403,
+      "city": "Olds",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 51.78341,
+      "longitude": -114.10199
+    },
+    {
+      "area-code": 403,
+      "city": "Banff",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 51.17622,
+      "longitude": -115.56982
+    },
+    {
+      "area-code": 403,
+      "city": "Medicine Hat",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 50.05006,
+      "longitude": -110.66834
+    },
+    {
+      "area-code": 403,
+      "city": "Canmore",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 51.08335,
+      "longitude": -115.35206
+    },
+    {
+      "area-code": 403,
+      "city": "Ponoka",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 52.6768,
+      "longitude": -113.58147
+    },
+    {
+      "area-code": 403,
+      "city": "Cochrane",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 51.18341,
+      "longitude": -114.46871
+    },
+    {
+      "area-code": 403,
+      "city": "Lacombe",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 52.46681,
+      "longitude": -113.7353
+    },
+    {
+      "area-code": 403,
+      "city": "Sylvan Lake",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 52.31681,
+      "longitude": -114.0853
+    },
+    {
+      "area-code": 416,
+      "city": "Toronto",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.70011,
+      "longitude": -79.4163
+    },
+    {
+      "area-code": 416,
+      "city": "Ancaster",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.21806,
+      "longitude": -79.98716
+    },
+    {
+      "area-code": 418,
+      "city": "Baie-Saint-Paul",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 47.44109,
+      "longitude": -70.49858
+    },
+    {
+      "area-code": 418,
+      "city": "La Malbaie",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 47.654,
+      "longitude": -70.15268
+    },
+    {
+      "area-code": 418,
+      "city": "Saint-Jean-sur-Richelieu",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.30713,
+      "longitude": -73.26259
+    },
+    {
+      "area-code": 418,
+      "city": "Québec",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.81228,
+      "longitude": -71.21454
+    },
+    {
+      "area-code": 418,
+      "city": "Saint-Lambert-de-Lauzon",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.58624,
+      "longitude": -71.20892
+    },
+    {
+      "area-code": 418,
+      "city": "Montmagny",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.98043,
+      "longitude": -70.55493
+    },
+    {
+      "area-code": 418,
+      "city": "Sainte-Marie",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.43401,
+      "longitude": -71.01168
+    },
+    {
+      "area-code": 418,
+      "city": "Alma",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.55009,
+      "longitude": -71.6491
+    },
+    {
+      "area-code": 418,
+      "city": "Jonquière",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.41648,
+      "longitude": -71.24884
+    },
+    {
+      "area-code": 418,
+      "city": "Saint-Raymond",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.46698,
+      "longitude": -73.60948
+    },
+    {
+      "area-code": 418,
+      "city": "Beauceville",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.21785,
+      "longitude": -70.77873
+    },
+    {
+      "area-code": 418,
+      "city": "Saint-Félicien",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.65007,
+      "longitude": -72.44906
+    },
+    {
+      "area-code": 418,
+      "city": "Matane",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.82857,
+      "longitude": -67.52197
+    },
+    {
+      "area-code": 418,
+      "city": "Sainte-Anne-des-Plaines",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.76468,
+      "longitude": -73.81156
+    },
+    {
+      "area-code": 418,
+      "city": "Dolbeau-Mistassini",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.8786,
+      "longitude": -72.23142
+    },
+    {
+      "area-code": 418,
+      "city": "La Tuque",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 47.43337,
+      "longitude": -72.7824
+    },
+    {
+      "area-code": 418,
+      "city": "Sainte-Marthe-sur-le-Lac",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.53338,
+      "longitude": -73.9325
+    },
+    {
+      "area-code": 418,
+      "city": "Rivière-du-Loup",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 47.82699,
+      "longitude": -69.54243
+    },
+    {
+      "area-code": 418,
+      "city": "Roberval",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.5168,
+      "longitude": -72.23244
+    },
+    {
+      "area-code": 418,
+      "city": "Thetford-Mines",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.09371,
+      "longitude": -71.30539
+    },
+    {
+      "area-code": 418,
+      "city": "Donnacona",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.68042,
+      "longitude": -71.7239
+    },
+    {
+      "area-code": 418,
+      "city": "Baie-Comeau",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 49.21679,
+      "longitude": -68.14894
+    },
+    {
+      "area-code": 418,
+      "city": "Saint-Henri",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.69314,
+      "longitude": -71.06927
+    },
+    {
+      "area-code": 418,
+      "city": "Notre-Dame-des-Prairies",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.05007,
+      "longitude": -73.43245
+    },
+    {
+      "area-code": 418,
+      "city": "Rimouski",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.44879,
+      "longitude": -68.52396
+    },
+    {
+      "area-code": 418,
+      "city": "Saint-Augustin-de-Desmaures",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.74064,
+      "longitude": -71.45131
+    },
+    {
+      "area-code": 418,
+      "city": "Saint-Basile-le-Grand",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.53338,
+      "longitude": -73.28246
+    },
+    {
+      "area-code": 418,
+      "city": "Amqui",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.46382,
+      "longitude": -67.43134
+    },
+    {
+      "area-code": 418,
+      "city": "Sept-Îles",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 50.20011,
+      "longitude": -66.38208
+    },
+    {
+      "area-code": 418,
+      "city": "Gaspé",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.83341,
+      "longitude": -64.48194
+    },
+    {
+      "area-code": 418,
+      "city": "Val-des-Monts",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.6501,
+      "longitude": -75.66604
+    },
+    {
+      "area-code": 418,
+      "city": "Port-Cartier",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 50.03339,
+      "longitude": -66.86545
+    },
+    {
+      "area-code": 418,
+      "city": "Chandler",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.34935,
+      "longitude": -64.67926
+    },
+    {
+      "area-code": 418,
+      "city": "Pont-Rouge",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.75468,
+      "longitude": -71.69566
+    },
+    {
+      "area-code": 418,
+      "city": "Val-d'Or",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.10018,
+      "longitude": -77.7828
+    },
+    {
+      "area-code": 418,
+      "city": "Sainte-Catherine",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.31836,
+      "longitude": -72.56632
+    },
+    {
+      "area-code": 418,
+      "city": "Trois-Rivières",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.34515,
+      "longitude": -72.5477
+    },
+    {
+      "area-code": 418,
+      "city": "Sainte-Agathe-des-Monts",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.05009,
+      "longitude": -74.28252
+    },
+    {
+      "area-code": 418,
+      "city": "Laval",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.56995,
+      "longitude": -73.692
+    },
+    {
+      "area-code": 418,
+      "city": "Côte-Saint-Luc",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.46536,
+      "longitude": -73.66585
+    },
+    {
+      "area-code": 418,
+      "city": "Sainte-Adèle",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.95008,
+      "longitude": -74.13251
+    },
+    {
+      "area-code": 418,
+      "city": "Chibougamau",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 49.91684,
+      "longitude": -74.36586
+    },
+    {
+      "area-code": 418,
+      "city": "Sainte-Anne-des-Monts",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 49.12402,
+      "longitude": -66.49243
+    },
+    {
+      "area-code": 418,
+      "city": "Mont-Joli",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.58388,
+      "longitude": -68.19214
+    },
+    {
+      "area-code": 418,
+      "city": "Pointe-Claire",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.44868,
+      "longitude": -73.81669
+    },
+    {
+      "area-code": 418,
+      "city": "Saint-Lin-Laurentides",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.85008,
+      "longitude": -73.76588
+    },
+    {
+      "area-code": 418,
+      "city": "Notre-Dame-de-l'Île-Perrot",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.36678,
+      "longitude": -73.9325
+    },
+    {
+      "area-code": 431,
+      "city": "Winnipeg",
+      "province": "Manitoba",
+      "country": "CA",
+      "latitude": 49.8844,
+      "longitude": -97.14704
+    },
+    {
+      "area-code": 431,
+      "city": "Steinbach",
+      "province": "Manitoba",
+      "country": "CA",
+      "latitude": 49.52579,
+      "longitude": -96.68451
+    },
+    {
+      "area-code": 431,
+      "city": "Brandon",
+      "province": "Manitoba",
+      "country": "CA",
+      "latitude": 49.84692,
+      "longitude": -99.95306
+    },
+    {
+      "area-code": 431,
+      "city": "Morden",
+      "province": "Manitoba",
+      "country": "CA",
+      "latitude": 49.1919,
+      "longitude": -98.10136
+    },
+    {
+      "area-code": 431,
+      "city": "Flin Flon",
+      "province": "Manitoba",
+      "country": "CA",
+      "latitude": 54.76824,
+      "longitude": -101.86497
+    },
+    {
+      "area-code": 431,
+      "city": "Dauphin",
+      "province": "Manitoba",
+      "country": "CA",
+      "latitude": 51.14941,
+      "longitude": -100.05023
+    },
+    {
+      "area-code": 431,
+      "city": "Thompson",
+      "province": "Manitoba",
+      "country": "CA",
+      "latitude": 55.7435,
+      "longitude": -97.85579
+    },
+    {
+      "area-code": 431,
+      "city": "The Pas",
+      "province": "Manitoba",
+      "country": "CA",
+      "latitude": 53.82509,
+      "longitude": -101.25413
+    },
+    {
+      "area-code": 431,
+      "city": "Selkirk",
+      "province": "Manitoba",
+      "country": "CA",
+      "latitude": 50.1436,
+      "longitude": -96.88452
+    },
+    {
+      "area-code": 431,
+      "city": "Winkler",
+      "province": "Manitoba",
+      "country": "CA",
+      "latitude": 49.1817,
+      "longitude": -97.94104
+    },
+    {
+      "area-code": 431,
+      "city": "Portage la Prairie",
+      "province": "Manitoba",
+      "country": "CA",
+      "latitude": 49.97282,
+      "longitude": -98.29263
+    },
+    {
+      "area-code": 437,
+      "city": "Toronto",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.70011,
+      "longitude": -79.4163
+    },
+    {
+      "area-code": 438,
+      "city": "Montréal-Ouest",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.45286,
+      "longitude": -73.64918
+    },
+    {
+      "area-code": 438,
+      "city": "Notre-Dame-de-l'Île-Perrot",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.36678,
+      "longitude": -73.9325
+    },
+    {
+      "area-code": 438,
+      "city": "Pointe-Claire",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.44868,
+      "longitude": -73.81669
+    },
+    {
+      "area-code": 438,
+      "city": "Sainte-Adèle",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.95008,
+      "longitude": -74.13251
+    },
+    {
+      "area-code": 450,
+      "city": "Châteauguay",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.38338,
+      "longitude": -73.74919
+    },
+    {
+      "area-code": 450,
+      "city": "Hudson",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.45008,
+      "longitude": -74.14922
+    },
+    {
+      "area-code": 450,
+      "city": "Granby",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.40008,
+      "longitude": -72.73243
+    },
+    {
+      "area-code": 450,
+      "city": "Sainte-Anne-des-Plaines",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.76468,
+      "longitude": -73.81156
+    },
+    {
+      "area-code": 450,
+      "city": "Lachute",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.65008,
+      "longitude": -74.33253
+    },
+    {
+      "area-code": 450,
+      "city": "Saint-Lambert-de-Lauzon",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.58624,
+      "longitude": -71.20892
+    },
+    {
+      "area-code": 450,
+      "city": "Saint-Hyacinthe",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.63076,
+      "longitude": -72.95699
+    },
+    {
+      "area-code": 450,
+      "city": "Saint-Jean-sur-Richelieu",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.30713,
+      "longitude": -73.26259
+    },
+    {
+      "area-code": 450,
+      "city": "Sainte-Adèle",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.95008,
+      "longitude": -74.13251
+    },
+    {
+      "area-code": 450,
+      "city": "Saint-Lin-Laurentides",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.85008,
+      "longitude": -73.76588
+    },
+    {
+      "area-code": 450,
+      "city": "Vaudreuil-Dorion",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.40008,
+      "longitude": -74.03251
+    },
+    {
+      "area-code": 450,
+      "city": "Salaberry-de-Valleyfield",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.25008,
+      "longitude": -74.13253
+    },
+    {
+      "area-code": 450,
+      "city": "Beauharnois",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.31341,
+      "longitude": -73.8725
+    },
+    {
+      "area-code": 450,
+      "city": "Saint-Sauveur",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.88686,
+      "longitude": -74.17943
+    },
+    {
+      "area-code": 450,
+      "city": "Laval",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.56995,
+      "longitude": -73.692
+    },
+    {
+      "area-code": 450,
+      "city": "Baie-Saint-Paul",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 47.44109,
+      "longitude": -70.49858
+    },
+    {
+      "area-code": 450,
+      "city": "Acton Vale",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.65007,
+      "longitude": -72.56582
+    },
+    {
+      "area-code": 450,
+      "city": "Québec",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.81228,
+      "longitude": -71.21454
+    },
+    {
+      "area-code": 450,
+      "city": "Sorel-Tracy",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.03336,
+      "longitude": -73.11585
+    },
+    {
+      "area-code": 450,
+      "city": "Pont-Rouge",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.75468,
+      "longitude": -71.69566
+    },
+    {
+      "area-code": 450,
+      "city": "Mirabel",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.65008,
+      "longitude": -74.08251
+    },
+    {
+      "area-code": 450,
+      "city": "Cowansville",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.20008,
+      "longitude": -72.74913
+    },
+    {
+      "area-code": 450,
+      "city": "Beloeil",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.56678,
+      "longitude": -73.19915
+    },
+    {
+      "area-code": 450,
+      "city": "Rivière-du-Loup",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 47.82699,
+      "longitude": -69.54243
+    },
+    {
+      "area-code": 450,
+      "city": "Joliette",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.01677,
+      "longitude": -73.44915
+    },
+    {
+      "area-code": 450,
+      "city": "Boucherville",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.59104,
+      "longitude": -73.43605
+    },
+    {
+      "area-code": 450,
+      "city": "Saint-Jérôme",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.78036,
+      "longitude": -74.00365
+    },
+    {
+      "area-code": 450,
+      "city": "Chambly",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.45008,
+      "longitude": -73.28246
+    },
+    {
+      "area-code": 450,
+      "city": "La Prairie",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.41678,
+      "longitude": -73.49917
+    },
+    {
+      "area-code": 450,
+      "city": "Saint-Bruno-de-Montarville",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.53341,
+      "longitude": -73.34916
+    },
+    {
+      "area-code": 450,
+      "city": "Varennes",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.68338,
+      "longitude": -73.43246
+    },
+    {
+      "area-code": 450,
+      "city": "Longueuil",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.53121,
+      "longitude": -73.51806
+    },
+    {
+      "area-code": 450,
+      "city": "Saint-Constant",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.36678,
+      "longitude": -73.56588
+    },
+    {
+      "area-code": 450,
+      "city": "Farnham",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.28338,
+      "longitude": -72.98244
+    },
+    {
+      "area-code": 450,
+      "city": "Notre-Dame-des-Prairies",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.05007,
+      "longitude": -73.43245
+    },
+    {
+      "area-code": 450,
+      "city": "Sainte-Marthe-sur-le-Lac",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.53338,
+      "longitude": -73.9325
+    },
+    {
+      "area-code": 450,
+      "city": "Terrebonne",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.70004,
+      "longitude": -73.64732
+    },
+    {
+      "area-code": 450,
+      "city": "Mascouche",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.74965,
+      "longitude": -73.59956
+    },
+    {
+      "area-code": 450,
+      "city": "Saint-Eustache",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.565,
+      "longitude": -73.90554
+    },
+    {
+      "area-code": 450,
+      "city": "Sainte-Julie",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.58338,
+      "longitude": -73.33246
+    },
+    {
+      "area-code": 450,
+      "city": "Rawdon",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.05007,
+      "longitude": -73.71587
+    },
+    {
+      "area-code": 450,
+      "city": "Lavaltrie",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.88338,
+      "longitude": -73.28245
+    },
+    {
+      "area-code": 450,
+      "city": "Brownsburg-Chatham",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.68342,
+      "longitude": -74.4159
+    },
+    {
+      "area-code": 450,
+      "city": "Saint-Augustin-de-Desmaures",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.74064,
+      "longitude": -71.45131
+    },
+    {
+      "area-code": 450,
+      "city": "Marieville",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.43338,
+      "longitude": -73.16585
+    },
+    {
+      "area-code": 450,
+      "city": "Bromont",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.31678,
+      "longitude": -72.64912
+    },
+    {
+      "area-code": 450,
+      "city": "L'Assomption",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.82318,
+      "longitude": -73.4294
+    },
+    {
+      "area-code": 506,
+      "city": "Edmundston",
+      "province": "New Brunswick",
+      "country": "CA",
+      "latitude": 47.3737,
+      "longitude": -68.32512
+    },
+    {
+      "area-code": 506,
+      "city": "Saint John",
+      "province": "New Brunswick",
+      "country": "CA",
+      "latitude": 45.27271,
+      "longitude": -66.06766
+    },
+    {
+      "area-code": 506,
+      "city": "Moncton",
+      "province": "New Brunswick",
+      "country": "CA",
+      "latitude": 46.09454,
+      "longitude": -64.7965
+    },
+    {
+      "area-code": 506,
+      "city": "Fredericton",
+      "province": "New Brunswick",
+      "country": "CA",
+      "latitude": 45.94541,
+      "longitude": -66.66558
+    },
+    {
+      "area-code": 506,
+      "city": "Oromocto",
+      "province": "New Brunswick",
+      "country": "CA",
+      "latitude": 45.83512,
+      "longitude": -66.47917
+    },
+    {
+      "area-code": 506,
+      "city": "Miramichi",
+      "province": "New Brunswick",
+      "country": "CA",
+      "latitude": 47.02895,
+      "longitude": -65.50186
+    },
+    {
+      "area-code": 506,
+      "city": "Bathurst",
+      "province": "New Brunswick",
+      "country": "CA",
+      "latitude": 47.61814,
+      "longitude": -65.65112
+    },
+    {
+      "area-code": 506,
+      "city": "Campbellton",
+      "province": "New Brunswick",
+      "country": "CA",
+      "latitude": 48.00751,
+      "longitude": -66.67272
+    },
+    {
+      "area-code": 506,
+      "city": "Sackville",
+      "province": "New Brunswick",
+      "country": "CA",
+      "latitude": 45.91875,
+      "longitude": -64.38455
+    },
+    {
+      "area-code": 514,
+      "city": "Jonquière",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.41648,
+      "longitude": -71.24884
+    },
+    {
+      "area-code": 514,
+      "city": "Montréal-Ouest",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.45286,
+      "longitude": -73.64918
+    },
+    {
+      "area-code": 514,
+      "city": "Sainte-Adèle",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.95008,
+      "longitude": -74.13251
+    },
+    {
+      "area-code": 514,
+      "city": "Pointe-Claire",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.44868,
+      "longitude": -73.81669
+    },
+    {
+      "area-code": 514,
+      "city": "Notre-Dame-de-l'Île-Perrot",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.36678,
+      "longitude": -73.9325
+    },
+    {
+      "area-code": 519,
+      "city": "London",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 42.98339,
+      "longitude": -81.23304
+    },
+    {
+      "area-code": 519,
+      "city": "Dorchester",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 42.98339,
+      "longitude": -81.06643
+    },
+    {
+      "area-code": 519,
+      "city": "St. Thomas",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 42.77361,
+      "longitude": -81.18038
+    },
+    {
+      "area-code": 519,
+      "city": "Kitchener",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.42537,
+      "longitude": -80.5112
+    },
+    {
+      "area-code": 519,
+      "city": "Brantford",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.1334,
+      "longitude": -80.26636
+    },
+    {
+      "area-code": 519,
+      "city": "Orangeville",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.9168,
+      "longitude": -80.09967
+    },
+    {
+      "area-code": 519,
+      "city": "Windsor",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 42.30008,
+      "longitude": -83.01654
+    },
+    {
+      "area-code": 519,
+      "city": "Guelph",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.54594,
+      "longitude": -80.25599
+    },
+    {
+      "area-code": 519,
+      "city": "Owen Sound",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.56717,
+      "longitude": -80.94349
+    },
+    {
+      "area-code": 519,
+      "city": "Stratford",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.36679,
+      "longitude": -80.94972
+    },
+    {
+      "area-code": 519,
+      "city": "Woodstock",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.13339,
+      "longitude": -80.7497
+    },
+    {
+      "area-code": 519,
+      "city": "Paris",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.2,
+      "longitude": -80.38333
+    },
+    {
+      "area-code": 519,
+      "city": "Ingersoll",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.03339,
+      "longitude": -80.88302
+    },
+    {
+      "area-code": 519,
+      "city": "Sarnia",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 42.97866,
+      "longitude": -82.40407
+    },
+    {
+      "area-code": 519,
+      "city": "Hanover",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.15009,
+      "longitude": -81.03303
+    },
+    {
+      "area-code": 519,
+      "city": "Goderich",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.75008,
+      "longitude": -81.71648
+    },
+    {
+      "area-code": 519,
+      "city": "Amherstburg",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 42.11679,
+      "longitude": -83.04985
+    },
+    {
+      "area-code": 519,
+      "city": "Aylmer",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 42.76679,
+      "longitude": -80.98302
+    },
+    {
+      "area-code": 519,
+      "city": "Petrolia",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 42.86678,
+      "longitude": -82.14981
+    },
+    {
+      "area-code": 519,
+      "city": "Ancaster",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.21806,
+      "longitude": -79.98716
+    },
+    {
+      "area-code": 579,
+      "city": "Cowansville",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.20008,
+      "longitude": -72.74913
+    },
+    {
+      "area-code": 579,
+      "city": "Granby",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.40008,
+      "longitude": -72.73243
+    },
+    {
+      "area-code": 579,
+      "city": "Longueuil",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.53121,
+      "longitude": -73.51806
+    },
+    {
+      "area-code": 579,
+      "city": "Boucherville",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.59104,
+      "longitude": -73.43605
+    },
+    {
+      "area-code": 579,
+      "city": "Vaudreuil-Dorion",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.40008,
+      "longitude": -74.03251
+    },
+    {
+      "area-code": 579,
+      "city": "Laval",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.56995,
+      "longitude": -73.692
+    },
+    {
+      "area-code": 579,
+      "city": "Chambly",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.45008,
+      "longitude": -73.28246
+    },
+    {
+      "area-code": 579,
+      "city": "La Prairie",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.41678,
+      "longitude": -73.49917
+    },
+    {
+      "area-code": 579,
+      "city": "Marieville",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.43338,
+      "longitude": -73.16585
+    },
+    {
+      "area-code": 579,
+      "city": "Saint-Bruno-de-Montarville",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.53341,
+      "longitude": -73.34916
+    },
+    {
+      "area-code": 579,
+      "city": "Saint-Jean-sur-Richelieu",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.30713,
+      "longitude": -73.26259
+    },
+    {
+      "area-code": 579,
+      "city": "Saint-Hyacinthe",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.63076,
+      "longitude": -72.95699
+    },
+    {
+      "area-code": 579,
+      "city": "Sainte-Adèle",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.95008,
+      "longitude": -74.13251
+    },
+    {
+      "area-code": 579,
+      "city": "Beloeil",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.56678,
+      "longitude": -73.19915
+    },
+    {
+      "area-code": 579,
+      "city": "Mascouche",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.74965,
+      "longitude": -73.59956
+    },
+    {
+      "area-code": 579,
+      "city": "Pont-Rouge",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.75468,
+      "longitude": -71.69566
+    },
+    {
+      "area-code": 579,
+      "city": "Saint-Jérôme",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.78036,
+      "longitude": -74.00365
+    },
+    {
+      "area-code": 579,
+      "city": "Saint-Lambert-de-Lauzon",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.58624,
+      "longitude": -71.20892
+    },
+    {
+      "area-code": 579,
+      "city": "Baie-Saint-Paul",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 47.44109,
+      "longitude": -70.49858
+    },
+    {
+      "area-code": 579,
+      "city": "Sorel-Tracy",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.03336,
+      "longitude": -73.11585
+    },
+    {
+      "area-code": 579,
+      "city": "Joliette",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.01677,
+      "longitude": -73.44915
+    },
+    {
+      "area-code": 579,
+      "city": "Salaberry-de-Valleyfield",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.25008,
+      "longitude": -74.13253
+    },
+    {
+      "area-code": 579,
+      "city": "Saint-Eustache",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.565,
+      "longitude": -73.90554
+    },
+    {
+      "area-code": 579,
+      "city": "Sainte-Julie",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.58338,
+      "longitude": -73.33246
+    },
+    {
+      "area-code": 579,
+      "city": "Mirabel",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.65008,
+      "longitude": -74.08251
+    },
+    {
+      "area-code": 579,
+      "city": "Bromont",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.31678,
+      "longitude": -72.64912
+    },
+    {
+      "area-code": 579,
+      "city": "Rawdon",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.05007,
+      "longitude": -73.71587
+    },
+    {
+      "area-code": 579,
+      "city": "Lavaltrie",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.88338,
+      "longitude": -73.28245
+    },
+    {
+      "area-code": 579,
+      "city": "L'Assomption",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.82318,
+      "longitude": -73.4294
+    },
+    {
+      "area-code": 579,
+      "city": "Saint-Constant",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.36678,
+      "longitude": -73.56588
+    },
+    {
+      "area-code": 579,
+      "city": "Châteauguay",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.38338,
+      "longitude": -73.74919
+    },
+    {
+      "area-code": 579,
+      "city": "Notre-Dame-des-Prairies",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.05007,
+      "longitude": -73.43245
+    },
+    {
+      "area-code": 579,
+      "city": "Sainte-Anne-des-Plaines",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.76468,
+      "longitude": -73.81156
+    },
+    {
+      "area-code": 579,
+      "city": "Lachute",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.65008,
+      "longitude": -74.33253
+    },
+    {
+      "area-code": 579,
+      "city": "Terrebonne",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.70004,
+      "longitude": -73.64732
+    },
+    {
+      "area-code": 579,
+      "city": "Saint-Augustin-de-Desmaures",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.74064,
+      "longitude": -71.45131
+    },
+    {
+      "area-code": 579,
+      "city": "Saint-Sauveur",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.88686,
+      "longitude": -74.17943
+    },
+    {
+      "area-code": 581,
+      "city": "Alma",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.55009,
+      "longitude": -71.6491
+    },
+    {
+      "area-code": 581,
+      "city": "Québec",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.81228,
+      "longitude": -71.21454
+    },
+    {
+      "area-code": 581,
+      "city": "Saint-Lambert-de-Lauzon",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.58624,
+      "longitude": -71.20892
+    },
+    {
+      "area-code": 581,
+      "city": "Dolbeau-Mistassini",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.8786,
+      "longitude": -72.23142
+    },
+    {
+      "area-code": 581,
+      "city": "Rivière-du-Loup",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 47.82699,
+      "longitude": -69.54243
+    },
+    {
+      "area-code": 581,
+      "city": "Sainte-Marthe-sur-le-Lac",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.53338,
+      "longitude": -73.9325
+    },
+    {
+      "area-code": 581,
+      "city": "Roberval",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.5168,
+      "longitude": -72.23244
+    },
+    {
+      "area-code": 581,
+      "city": "Saint-Félicien",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.65007,
+      "longitude": -72.44906
+    },
+    {
+      "area-code": 581,
+      "city": "Sainte-Marie",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.43401,
+      "longitude": -71.01168
+    },
+    {
+      "area-code": 581,
+      "city": "Matane",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.82857,
+      "longitude": -67.52197
+    },
+    {
+      "area-code": 581,
+      "city": "Baie-Saint-Paul",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 47.44109,
+      "longitude": -70.49858
+    },
+    {
+      "area-code": 581,
+      "city": "La Malbaie",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 47.654,
+      "longitude": -70.15268
+    },
+    {
+      "area-code": 581,
+      "city": "Rimouski",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.44879,
+      "longitude": -68.52396
+    },
+    {
+      "area-code": 581,
+      "city": "Jonquière",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.41648,
+      "longitude": -71.24884
+    },
+    {
+      "area-code": 581,
+      "city": "Saint-Henri",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.69314,
+      "longitude": -71.06927
+    },
+    {
+      "area-code": 581,
+      "city": "Thetford-Mines",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.09371,
+      "longitude": -71.30539
+    },
+    {
+      "area-code": 581,
+      "city": "Sainte-Anne-des-Plaines",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.76468,
+      "longitude": -73.81156
+    },
+    {
+      "area-code": 581,
+      "city": "Montmagny",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.98043,
+      "longitude": -70.55493
+    },
+    {
+      "area-code": 581,
+      "city": "Saint-Jean-sur-Richelieu",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.30713,
+      "longitude": -73.26259
+    },
+    {
+      "area-code": 581,
+      "city": "Port-Cartier",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 50.03339,
+      "longitude": -66.86545
+    },
+    {
+      "area-code": 581,
+      "city": "La Tuque",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 47.43337,
+      "longitude": -72.7824
+    },
+    {
+      "area-code": 581,
+      "city": "Sept-Îles",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 50.20011,
+      "longitude": -66.38208
+    },
+    {
+      "area-code": 581,
+      "city": "Pont-Rouge",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.75468,
+      "longitude": -71.69566
+    },
+    {
+      "area-code": 581,
+      "city": "Amqui",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.46382,
+      "longitude": -67.43134
+    },
+    {
+      "area-code": 581,
+      "city": "Val-d'Or",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.10018,
+      "longitude": -77.7828
+    },
+    {
+      "area-code": 581,
+      "city": "Sainte-Anne-des-Monts",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 49.12402,
+      "longitude": -66.49243
+    },
+    {
+      "area-code": 581,
+      "city": "Saint-Basile-le-Grand",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.53338,
+      "longitude": -73.28246
+    },
+    {
+      "area-code": 581,
+      "city": "Donnacona",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.68042,
+      "longitude": -71.7239
+    },
+    {
+      "area-code": 581,
+      "city": "Mont-Joli",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.58388,
+      "longitude": -68.19214
+    },
+    {
+      "area-code": 581,
+      "city": "Gaspé",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.83341,
+      "longitude": -64.48194
+    },
+    {
+      "area-code": 581,
+      "city": "Pointe-Claire",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.44868,
+      "longitude": -73.81669
+    },
+    {
+      "area-code": 581,
+      "city": "Chandler",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.34935,
+      "longitude": -64.67926
+    },
+    {
+      "area-code": 581,
+      "city": "Sainte-Adèle",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.95008,
+      "longitude": -74.13251
+    },
+    {
+      "area-code": 581,
+      "city": "Beauceville",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.21785,
+      "longitude": -70.77873
+    },
+    {
+      "area-code": 581,
+      "city": "Sainte-Agathe-des-Monts",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.05009,
+      "longitude": -74.28252
+    },
+    {
+      "area-code": 581,
+      "city": "Chibougamau",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 49.91684,
+      "longitude": -74.36586
+    },
+    {
+      "area-code": 581,
+      "city": "Notre-Dame-des-Prairies",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.05007,
+      "longitude": -73.43245
+    },
+    {
+      "area-code": 581,
+      "city": "Laval",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.56995,
+      "longitude": -73.692
+    },
+    {
+      "area-code": 581,
+      "city": "Sainte-Catherine",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.31836,
+      "longitude": -72.56632
+    },
+    {
+      "area-code": 581,
+      "city": "Trois-Rivières",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.34515,
+      "longitude": -72.5477
+    },
+    {
+      "area-code": 581,
+      "city": "Saint-Lin-Laurentides",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.85008,
+      "longitude": -73.76588
+    },
+    {
+      "area-code": 581,
+      "city": "Val-des-Monts",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.6501,
+      "longitude": -75.66604
+    },
+    {
+      "area-code": 581,
+      "city": "Notre-Dame-de-l'Île-Perrot",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.36678,
+      "longitude": -73.9325
+    },
+    {
+      "area-code": 587,
+      "city": "Bonnyville",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 54.26684,
+      "longitude": -110.73505
+    },
+    {
+      "area-code": 587,
+      "city": "Calgary",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 51.05011,
+      "longitude": -114.08529
+    },
+    {
+      "area-code": 587,
+      "city": "Lethbridge",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 49.69999,
+      "longitude": -112.81856
+    },
+    {
+      "area-code": 587,
+      "city": "Banff",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 51.17622,
+      "longitude": -115.56982
+    },
+    {
+      "area-code": 587,
+      "city": "St. Albert",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 53.63344,
+      "longitude": -113.63533
+    },
+    {
+      "area-code": 587,
+      "city": "Sherwood Park",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 53.51684,
+      "longitude": -113.3187
+    },
+    {
+      "area-code": 587,
+      "city": "Airdrie",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 51.30011,
+      "longitude": -114.03528
+    },
+    {
+      "area-code": 587,
+      "city": "Beaumont",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 53.35013,
+      "longitude": -113.41871
+    },
+    {
+      "area-code": 587,
+      "city": "Canmore",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 51.08335,
+      "longitude": -115.35206
+    },
+    {
+      "area-code": 587,
+      "city": "Cochrane",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 51.18341,
+      "longitude": -114.46871
+    },
+    {
+      "area-code": 587,
+      "city": "Devon",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 53.36683,
+      "longitude": -113.73533
+    },
+    {
+      "area-code": 587,
+      "city": "Fort McMurray",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 56.72676,
+      "longitude": -111.38103
+    },
+    {
+      "area-code": 587,
+      "city": "Fort Saskatchewan",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 53.71684,
+      "longitude": -113.2187
+    },
+    {
+      "area-code": 587,
+      "city": "Grande Prairie",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 55.16667,
+      "longitude": -118.80271
+    },
+    {
+      "area-code": 587,
+      "city": "High River",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 50.58341,
+      "longitude": -113.86867
+    },
+    {
+      "area-code": 587,
+      "city": "Leduc",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 53.26682,
+      "longitude": -113.55201
+    },
+    {
+      "area-code": 587,
+      "city": "Medicine Hat",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 50.05006,
+      "longitude": -110.66834
+    },
+    {
+      "area-code": 587,
+      "city": "Morinville",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 53.80014,
+      "longitude": -113.65203
+    },
+    {
+      "area-code": 587,
+      "city": "Okotoks",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 50.72885,
+      "longitude": -113.98281
+    },
+    {
+      "area-code": 587,
+      "city": "Spruce Grove",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 53.53344,
+      "longitude": -113.91874
+    },
+    {
+      "area-code": 587,
+      "city": "Stony Plain",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 53.53343,
+      "longitude": -114.00205
+    },
+    {
+      "area-code": 587,
+      "city": "Strathmore",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 51.05011,
+      "longitude": -113.38523
+    },
+    {
+      "area-code": 587,
+      "city": "Camrose",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 53.01684,
+      "longitude": -112.83525
+    },
+    {
+      "area-code": 587,
+      "city": "Peace River",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 56.2501,
+      "longitude": -117.28599
+    },
+    {
+      "area-code": 587,
+      "city": "Vegreville",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 53.50015,
+      "longitude": -112.05182
+    },
+    {
+      "area-code": 587,
+      "city": "Brooks",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 50.58341,
+      "longitude": -111.88509
+    },
+    {
+      "area-code": 587,
+      "city": "Westlock",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 54.15016,
+      "longitude": -113.86876
+    },
+    {
+      "area-code": 587,
+      "city": "Slave Lake",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 55.28344,
+      "longitude": -114.76896
+    },
+    {
+      "area-code": 587,
+      "city": "Edson",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 53.58345,
+      "longitude": -116.43559
+    },
+    {
+      "area-code": 587,
+      "city": "Red Deer",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 52.26682,
+      "longitude": -113.802
+    },
+    {
+      "area-code": 587,
+      "city": "Drayton Valley",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 53.21682,
+      "longitude": -114.98544
+    },
+    {
+      "area-code": 587,
+      "city": "Wainwright",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 52.83904,
+      "longitude": -110.85723
+    },
+    {
+      "area-code": 587,
+      "city": "Stettler",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 52.31683,
+      "longitude": -112.71861
+    },
+    {
+      "area-code": 587,
+      "city": "Lacombe",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 52.46681,
+      "longitude": -113.7353
+    },
+    {
+      "area-code": 587,
+      "city": "Edmonton",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 53.55014,
+      "longitude": -113.46871
+    },
+    {
+      "area-code": 587,
+      "city": "Taber",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 49.78703,
+      "longitude": -112.14603
+    },
+    {
+      "area-code": 587,
+      "city": "Sylvan Lake",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 52.31681,
+      "longitude": -114.0853
+    },
+    {
+      "area-code": 587,
+      "city": "Coaldale",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 49.7167,
+      "longitude": -112.61854
+    },
+    {
+      "area-code": 587,
+      "city": "Cold Lake",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 54.46525,
+      "longitude": -110.18154
+    },
+    {
+      "area-code": 587,
+      "city": "Hinton",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 53.40009,
+      "longitude": -117.58567
+    },
+    {
+      "area-code": 587,
+      "city": "Wetaskiwin",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 52.96683,
+      "longitude": -113.36869
+    },
+    {
+      "area-code": 587,
+      "city": "Olds",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 51.78341,
+      "longitude": -114.10199
+    },
+    {
+      "area-code": 587,
+      "city": "Ponoka",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 52.6768,
+      "longitude": -113.58147
+    },
+    {
+      "area-code": 587,
+      "city": "Rocky Mountain House",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 52.36683,
+      "longitude": -114.9188
+    },
+    {
+      "area-code": 604,
+      "city": "New Westminster",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.20678,
+      "longitude": -122.91092
+    },
+    {
+      "area-code": 604,
+      "city": "Whistler",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 50.1164,
+      "longitude": -122.96946
+    },
+    {
+      "area-code": 604,
+      "city": "Richmond",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.17003,
+      "longitude": -123.13683
+    },
+    {
+      "area-code": 604,
+      "city": "West Vancouver",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.36672,
+      "longitude": -123.16652
+    },
+    {
+      "area-code": 604,
+      "city": "Powell River",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.87022,
+      "longitude": -124.54926
+    },
+    {
+      "area-code": 604,
+      "city": "North Vancouver",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.31636,
+      "longitude": -123.06934
+    },
+    {
+      "area-code": 604,
+      "city": "Sechelt",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.47512,
+      "longitude": -123.75903
+    },
+    {
+      "area-code": 604,
+      "city": "Abbotsford",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.05798,
+      "longitude": -122.25257
+    },
+    {
+      "area-code": 604,
+      "city": "Aldergrove",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.05801,
+      "longitude": -122.47087
+    },
+    {
+      "area-code": 604,
+      "city": "Chilliwack",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.16638,
+      "longitude": -121.95257
+    },
+    {
+      "area-code": 604,
+      "city": "Ladner",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.08938,
+      "longitude": -123.08241
+    },
+    {
+      "area-code": 604,
+      "city": "White Rock",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.01636,
+      "longitude": -122.8026
+    },
+    {
+      "area-code": 604,
+      "city": "Langley",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.08297,
+      "longitude": -122.58589
+    },
+    {
+      "area-code": 604,
+      "city": "Pitt Meadows",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.22119,
+      "longitude": -122.68965
+    },
+    {
+      "area-code": 604,
+      "city": "Port Moody",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.28297,
+      "longitude": -122.85263
+    },
+    {
+      "area-code": 604,
+      "city": "Gibsons",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.39539,
+      "longitude": -123.50555
+    },
+    {
+      "area-code": 613,
+      "city": "Perth",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.90011,
+      "longitude": -76.24939
+    },
+    {
+      "area-code": 613,
+      "city": "Ottawa",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 45.41117,
+      "longitude": -75.69812
+    },
+    {
+      "area-code": 613,
+      "city": "Smiths Falls",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.90452,
+      "longitude": -76.02333
+    },
+    {
+      "area-code": 613,
+      "city": "Cornwall",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 45.01809,
+      "longitude": -74.72815
+    },
+    {
+      "area-code": 613,
+      "city": "Belleville",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.16682,
+      "longitude": -77.38277
+    },
+    {
+      "area-code": 613,
+      "city": "Brockville",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.59132,
+      "longitude": -75.68705
+    },
+    {
+      "area-code": 613,
+      "city": "Kingston",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.22976,
+      "longitude": -76.48098
+    },
+    {
+      "area-code": 613,
+      "city": "Carleton Place",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 45.13341,
+      "longitude": -76.14938
+    },
+    {
+      "area-code": 613,
+      "city": "Pembroke",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 45.81681,
+      "longitude": -77.11616
+    },
+    {
+      "area-code": 613,
+      "city": "Hawkesbury",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 45.60009,
+      "longitude": -74.61595
+    },
+    {
+      "area-code": 613,
+      "city": "Greater Napanee",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.25012,
+      "longitude": -76.94944
+    },
+    {
+      "area-code": 613,
+      "city": "Gananoque",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.33342,
+      "longitude": -76.16607
+    },
+    {
+      "area-code": 613,
+      "city": "Clarence-Rockland",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 45.5501,
+      "longitude": -75.29101
+    },
+    {
+      "area-code": 613,
+      "city": "Renfrew",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 45.46681,
+      "longitude": -76.68272
+    },
+    {
+      "area-code": 613,
+      "city": "Petawawa",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 45.89452,
+      "longitude": -77.28007
+    },
+    {
+      "area-code": 613,
+      "city": "Arnprior",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 45.43341,
+      "longitude": -76.34939
+    },
+    {
+      "area-code": 613,
+      "city": "Ancaster",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.21806,
+      "longitude": -79.98716
+    },
+    {
+      "area-code": 639,
+      "city": "Prince Albert",
+      "province": "Saskatchewan",
+      "country": "CA",
+      "latitude": 53.20008,
+      "longitude": -105.76772
+    },
+    {
+      "area-code": 639,
+      "city": "Regina",
+      "province": "Saskatchewan",
+      "country": "CA",
+      "latitude": 50.45008,
+      "longitude": -104.6178
+    },
+    {
+      "area-code": 639,
+      "city": "Saskatoon",
+      "province": "Saskatchewan",
+      "country": "CA",
+      "latitude": 52.11679,
+      "longitude": -106.63452
+    },
+    {
+      "area-code": 639,
+      "city": "Estevan",
+      "province": "Saskatchewan",
+      "country": "CA",
+      "latitude": 49.13337,
+      "longitude": -102.98422
+    },
+    {
+      "area-code": 639,
+      "city": "Lloydminster",
+      "province": "Saskatchewan",
+      "country": "CA",
+      "latitude": 53.28346,
+      "longitude": -110.00157
+    },
+    {
+      "area-code": 647,
+      "city": "Toronto",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.70011,
+      "longitude": -79.4163
+    },
+    {
+      "area-code": 705,
+      "city": "Peterborough",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.30012,
+      "longitude": -78.31623
+    },
+    {
+      "area-code": 705,
+      "city": "Parry Sound",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 45.34732,
+      "longitude": -80.03527
+    },
+    {
+      "area-code": 705,
+      "city": "Bracebridge",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 45.03341,
+      "longitude": -79.31633
+    },
+    {
+      "area-code": 705,
+      "city": "Sault Ste. Marie",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 46.51677,
+      "longitude": -84.33325
+    },
+    {
+      "area-code": 705,
+      "city": "Greater Sudbury",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 46.49,
+      "longitude": -80.99001
+    },
+    {
+      "area-code": 705,
+      "city": "Midland",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.7501,
+      "longitude": -79.88296
+    },
+    {
+      "area-code": 705,
+      "city": "Barrie",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.40011,
+      "longitude": -79.66634
+    },
+    {
+      "area-code": 705,
+      "city": "Timmins",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 48.46686,
+      "longitude": -81.33312
+    },
+    {
+      "area-code": 705,
+      "city": "North Bay",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 46.3168,
+      "longitude": -79.46633
+    },
+    {
+      "area-code": 705,
+      "city": "Huntsville",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 45.33341,
+      "longitude": -79.21632
+    },
+    {
+      "area-code": 705,
+      "city": "Angus",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.31681,
+      "longitude": -79.88295
+    },
+    {
+      "area-code": 705,
+      "city": "Orillia",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.60868,
+      "longitude": -79.42068
+    },
+    {
+      "area-code": 705,
+      "city": "Elliot Lake",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 46.38336,
+      "longitude": -82.63315
+    },
+    {
+      "area-code": 705,
+      "city": "Collingwood",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.4834,
+      "longitude": -80.21638
+    },
+    {
+      "area-code": 705,
+      "city": "Kapuskasing",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 49.41694,
+      "longitude": -82.43308
+    },
+    {
+      "area-code": 705,
+      "city": "Wasaga Beach",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.5168,
+      "longitude": -80.01637
+    },
+    {
+      "area-code": 705,
+      "city": "Temiskaming Shores",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 47.49376,
+      "longitude": -79.71529
+    },
+    {
+      "area-code": 705,
+      "city": "Kirkland Lake",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 48.14461,
+      "longitude": -80.03767
+    },
+    {
+      "area-code": 705,
+      "city": "Gravenhurst",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.91681,
+      "longitude": -79.36633
+    },
+    {
+      "area-code": 705,
+      "city": "Ancaster",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.21806,
+      "longitude": -79.98716
+    },
+    {
+      "area-code": 709,
+      "city": "Stephenville",
+      "province": "Newfoundland and Labrador",
+      "country": "CA",
+      "latitude": 48.55001,
+      "longitude": -58.5818
+    },
+    {
+      "area-code": 709,
+      "city": "Corner Brook",
+      "province": "Newfoundland and Labrador",
+      "country": "CA",
+      "latitude": 48.95001,
+      "longitude": -57.95202
+    },
+    {
+      "area-code": 709,
+      "city": "Happy Valley-Goose Bay",
+      "province": "Newfoundland and Labrador",
+      "country": "CA",
+      "latitude": 53.31685,
+      "longitude": -60.33153
+    },
+    {
+      "area-code": 709,
+      "city": "St. John's",
+      "province": "Newfoundland and Labrador",
+      "country": "CA",
+      "latitude": 47.56494,
+      "longitude": -52.70931
+    },
+    {
+      "area-code": 709,
+      "city": "Bay Roberts",
+      "province": "Newfoundland and Labrador",
+      "country": "CA",
+      "latitude": 47.59989,
+      "longitude": -53.26478
+    },
+    {
+      "area-code": 709,
+      "city": "Grand Falls-Windsor",
+      "province": "Newfoundland and Labrador",
+      "country": "CA",
+      "latitude": 48.93324,
+      "longitude": -55.66492
+    },
+    {
+      "area-code": 709,
+      "city": "Carbonear",
+      "province": "Newfoundland and Labrador",
+      "country": "CA",
+      "latitude": 47.73319,
+      "longitude": -53.21478
+    },
+    {
+      "area-code": 778,
+      "city": "West Vancouver",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.36672,
+      "longitude": -123.16652
+    },
+    {
+      "area-code": 778,
+      "city": "Abbotsford",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.05798,
+      "longitude": -122.25257
+    },
+    {
+      "area-code": 778,
+      "city": "Smithers",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 54.78036,
+      "longitude": -127.17428
+    },
+    {
+      "area-code": 778,
+      "city": "Vernon",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 50.26729,
+      "longitude": -119.27337
+    },
+    {
+      "area-code": 778,
+      "city": "West Kelowna",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.8625,
+      "longitude": -119.58333
+    },
+    {
+      "area-code": 778,
+      "city": "Port Moody",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.28297,
+      "longitude": -122.85263
+    },
+    {
+      "area-code": 778,
+      "city": "Richmond",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.17003,
+      "longitude": -123.13683
+    },
+    {
+      "area-code": 778,
+      "city": "Kamloops",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 50.66648,
+      "longitude": -120.3192
+    },
+    {
+      "area-code": 778,
+      "city": "Victoria",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 48.43294,
+      "longitude": -123.3693
+    },
+    {
+      "area-code": 778,
+      "city": "Courtenay",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.68657,
+      "longitude": -124.9936
+    },
+    {
+      "area-code": 778,
+      "city": "New Westminster",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.20678,
+      "longitude": -122.91092
+    },
+    {
+      "area-code": 778,
+      "city": "Aldergrove",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.05801,
+      "longitude": -122.47087
+    },
+    {
+      "area-code": 778,
+      "city": "North Vancouver",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.31636,
+      "longitude": -123.06934
+    },
+    {
+      "area-code": 778,
+      "city": "Revelstoke",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 50.98317,
+      "longitude": -118.2023
+    },
+    {
+      "area-code": 778,
+      "city": "Fort St. John",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 56.24988,
+      "longitude": -120.85292
+    },
+    {
+      "area-code": 778,
+      "city": "Cranbrook",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.49991,
+      "longitude": -115.76879
+    },
+    {
+      "area-code": 778,
+      "city": "Ladner",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.08938,
+      "longitude": -123.08241
+    },
+    {
+      "area-code": 778,
+      "city": "Williams Lake",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 52.14153,
+      "longitude": -122.14451
+    },
+    {
+      "area-code": 778,
+      "city": "Nanaimo",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.16638,
+      "longitude": -123.94003
+    },
+    {
+      "area-code": 778,
+      "city": "Nelson",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.49985,
+      "longitude": -117.28553
+    },
+    {
+      "area-code": 778,
+      "city": "Terrace",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 54.51634,
+      "longitude": -128.60345
+    },
+    {
+      "area-code": 778,
+      "city": "Dawson Creek",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 55.75984,
+      "longitude": -120.2403
+    },
+    {
+      "area-code": 778,
+      "city": "Trail",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.09983,
+      "longitude": -117.70223
+    },
+    {
+      "area-code": 778,
+      "city": "Duncan",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 48.78293,
+      "longitude": -123.70266
+    },
+    {
+      "area-code": 778,
+      "city": "Gibsons",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.39539,
+      "longitude": -123.50555
+    },
+    {
+      "area-code": 778,
+      "city": "Langley",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.08297,
+      "longitude": -122.58589
+    },
+    {
+      "area-code": 778,
+      "city": "Prince George",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 53.9166,
+      "longitude": -122.75301
+    },
+    {
+      "area-code": 778,
+      "city": "Salmon Arm",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 50.6998,
+      "longitude": -119.30237
+    },
+    {
+      "area-code": 778,
+      "city": "White Rock",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.01636,
+      "longitude": -122.8026
+    },
+    {
+      "area-code": 778,
+      "city": "Port Alberni",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.24133,
+      "longitude": -124.8028
+    },
+    {
+      "area-code": 778,
+      "city": "Quesnel",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 52.97842,
+      "longitude": -122.4931
+    },
+    {
+      "area-code": 778,
+      "city": "Campbell River",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 50.01634,
+      "longitude": -125.24459
+    },
+    {
+      "area-code": 778,
+      "city": "Merritt",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 50.11225,
+      "longitude": -120.7942
+    },
+    {
+      "area-code": 778,
+      "city": "Ladysmith",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 48.99016,
+      "longitude": -123.81699
+    },
+    {
+      "area-code": 778,
+      "city": "North Saanich",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 48.66634,
+      "longitude": -123.41933
+    },
+    {
+      "area-code": 778,
+      "city": "Sooke",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 48.37463,
+      "longitude": -123.72762
+    },
+    {
+      "area-code": 778,
+      "city": "Prince Rupert",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 54.31507,
+      "longitude": -130.32098
+    },
+    {
+      "area-code": 778,
+      "city": "Pitt Meadows",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.22119,
+      "longitude": -122.68965
+    },
+    {
+      "area-code": 778,
+      "city": "Sechelt",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.47512,
+      "longitude": -123.75903
+    },
+    {
+      "area-code": 778,
+      "city": "Castlegar",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.29984,
+      "longitude": -117.66894
+    },
+    {
+      "area-code": 778,
+      "city": "Penticton",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.48062,
+      "longitude": -119.58584
+    },
+    {
+      "area-code": 778,
+      "city": "Kimberley",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.67071,
+      "longitude": -115.9776
+    },
+    {
+      "area-code": 778,
+      "city": "Parksville",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.31947,
+      "longitude": -124.31575
+    },
+    {
+      "area-code": 778,
+      "city": "Summerland",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.59977,
+      "longitude": -119.66911
+    },
+    {
+      "area-code": 778,
+      "city": "Fernie",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.49996,
+      "longitude": -115.06871
+    },
+    {
+      "area-code": 778,
+      "city": "Chilliwack",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.16638,
+      "longitude": -121.95257
+    },
+    {
+      "area-code": 778,
+      "city": "Whistler",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 50.1164,
+      "longitude": -122.96946
+    },
+    {
+      "area-code": 778,
+      "city": "Powell River",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 49.87022,
+      "longitude": -124.54926
+    },
+    {
+      "area-code": 778,
+      "city": "Kitimat",
+      "province": "British Columbia",
+      "country": "CA",
+      "latitude": 54.05244,
+      "longitude": -128.65342
+    },
+    {
+      "area-code": 780,
+      "city": "Edmonton",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 53.55014,
+      "longitude": -113.46871
+    },
+    {
+      "area-code": 780,
+      "city": "Bonnyville",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 54.26684,
+      "longitude": -110.73505
+    },
+    {
+      "area-code": 780,
+      "city": "Drayton Valley",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 53.21682,
+      "longitude": -114.98544
+    },
+    {
+      "area-code": 780,
+      "city": "Whitecourt",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 54.15015,
+      "longitude": -115.68548
+    },
+    {
+      "area-code": 780,
+      "city": "Westlock",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 54.15016,
+      "longitude": -113.86876
+    },
+    {
+      "area-code": 780,
+      "city": "Vegreville",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 53.50015,
+      "longitude": -112.05182
+    },
+    {
+      "area-code": 780,
+      "city": "Fort McMurray",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 56.72676,
+      "longitude": -111.38103
+    },
+    {
+      "area-code": 780,
+      "city": "Peace River",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 56.2501,
+      "longitude": -117.28599
+    },
+    {
+      "area-code": 780,
+      "city": "Hinton",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 53.40009,
+      "longitude": -117.58567
+    },
+    {
+      "area-code": 780,
+      "city": "Edson",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 53.58345,
+      "longitude": -116.43559
+    },
+    {
+      "area-code": 780,
+      "city": "Camrose",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 53.01684,
+      "longitude": -112.83525
+    },
+    {
+      "area-code": 780,
+      "city": "Grande Prairie",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 55.16667,
+      "longitude": -118.80271
+    },
+    {
+      "area-code": 780,
+      "city": "Slave Lake",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 55.28344,
+      "longitude": -114.76896
+    },
+    {
+      "area-code": 780,
+      "city": "Wainwright",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 52.83904,
+      "longitude": -110.85723
+    },
+    {
+      "area-code": 780,
+      "city": "Wetaskiwin",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 52.96683,
+      "longitude": -113.36869
+    },
+    {
+      "area-code": 780,
+      "city": "St. Albert",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 53.63344,
+      "longitude": -113.63533
+    },
+    {
+      "area-code": 780,
+      "city": "Sherwood Park",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 53.51684,
+      "longitude": -113.3187
+    },
+    {
+      "area-code": 780,
+      "city": "Spruce Grove",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 53.53344,
+      "longitude": -113.91874
+    },
+    {
+      "area-code": 780,
+      "city": "Morinville",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 53.80014,
+      "longitude": -113.65203
+    },
+    {
+      "area-code": 780,
+      "city": "Fort Saskatchewan",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 53.71684,
+      "longitude": -113.2187
+    },
+    {
+      "area-code": 780,
+      "city": "Stony Plain",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 53.53343,
+      "longitude": -114.00205
+    },
+    {
+      "area-code": 780,
+      "city": "Leduc",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 53.26682,
+      "longitude": -113.55201
+    },
+    {
+      "area-code": 780,
+      "city": "Cold Lake",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 54.46525,
+      "longitude": -110.18154
+    },
+    {
+      "area-code": 780,
+      "city": "Beaumont",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 53.35013,
+      "longitude": -113.41871
+    },
+    {
+      "area-code": 780,
+      "city": "Devon",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 53.36683,
+      "longitude": -113.73533
+    },
+    {
+      "area-code": 782,
+      "city": "Halifax",
+      "province": "Nova Scotia",
+      "country": "CA",
+      "latitude": 44.64533,
+      "longitude": -63.57239
+    },
+    {
+      "area-code": 782,
+      "city": "Yarmouth",
+      "province": "Nova Scotia",
+      "country": "CA",
+      "latitude": 43.83345,
+      "longitude": -66.11557
+    },
+    {
+      "area-code": 782,
+      "city": "New Glasgow",
+      "province": "Nova Scotia",
+      "country": "CA",
+      "latitude": 45.58344,
+      "longitude": -62.64863
+    },
+    {
+      "area-code": 782,
+      "city": "Charlottetown",
+      "province": "Prince Edward Island",
+      "country": "CA",
+      "latitude": 46.23525,
+      "longitude": -63.12671
+    },
+    {
+      "area-code": 807,
+      "city": "Dryden",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 49.78334,
+      "longitude": -92.75032
+    },
+    {
+      "area-code": 807,
+      "city": "Thunder Bay",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 48.38202,
+      "longitude": -89.25018
+    },
+    {
+      "area-code": 807,
+      "city": "Fort Frances",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 48.59988,
+      "longitude": -93.4003
+    },
+    {
+      "area-code": 807,
+      "city": "Ancaster",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.21806,
+      "longitude": -79.98716
+    },
+    {
+      "area-code": 819,
+      "city": "Sherbrooke",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.40008,
+      "longitude": -71.89908
+    },
+    {
+      "area-code": 819,
+      "city": "Magog",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.26678,
+      "longitude": -72.14909
+    },
+    {
+      "area-code": 819,
+      "city": "Mont-Laurier",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.55011,
+      "longitude": -75.4993
+    },
+    {
+      "area-code": 819,
+      "city": "Notre-Dame-des-Prairies",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.05007,
+      "longitude": -73.43245
+    },
+    {
+      "area-code": 819,
+      "city": "Sainte-Marthe-sur-le-Lac",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.53338,
+      "longitude": -73.9325
+    },
+    {
+      "area-code": 819,
+      "city": "Sainte-Agathe-des-Monts",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.05009,
+      "longitude": -74.28252
+    },
+    {
+      "area-code": 819,
+      "city": "Amos",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.56688,
+      "longitude": -78.11624
+    },
+    {
+      "area-code": 819,
+      "city": "Sainte-Adèle",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.95008,
+      "longitude": -74.13251
+    },
+    {
+      "area-code": 819,
+      "city": "Asbestos",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.76678,
+      "longitude": -71.9324
+    },
+    {
+      "area-code": 819,
+      "city": "Saint-Lambert-de-Lauzon",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.58624,
+      "longitude": -71.20892
+    },
+    {
+      "area-code": 819,
+      "city": "Louiseville",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.25594,
+      "longitude": -72.94145
+    },
+    {
+      "area-code": 819,
+      "city": "Princeville",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.17163,
+      "longitude": -71.87462
+    },
+    {
+      "area-code": 819,
+      "city": "Trois-Rivières",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.34515,
+      "longitude": -72.5477
+    },
+    {
+      "area-code": 819,
+      "city": "Shawinigan",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.56675,
+      "longitude": -72.74913
+    },
+    {
+      "area-code": 819,
+      "city": "Drummondville",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.88336,
+      "longitude": -72.48241
+    },
+    {
+      "area-code": 819,
+      "city": "Plessisville",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.21856,
+      "longitude": -71.76201
+    },
+    {
+      "area-code": 819,
+      "city": "Nicolet",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.21676,
+      "longitude": -72.61582
+    },
+    {
+      "area-code": 819,
+      "city": "Val-des-Monts",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.6501,
+      "longitude": -75.66604
+    },
+    {
+      "area-code": 819,
+      "city": "Val-d'Or",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.10018,
+      "longitude": -77.7828
+    },
+    {
+      "area-code": 819,
+      "city": "Rouyn-Noranda",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.23656,
+      "longitude": -79.02311
+    },
+    {
+      "area-code": 819,
+      "city": "Sainte-Marie",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.43401,
+      "longitude": -71.01168
+    },
+    {
+      "area-code": 819,
+      "city": "Bécancour",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.33336,
+      "longitude": -72.43241
+    },
+    {
+      "area-code": 819,
+      "city": "La Sarre",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.80019,
+      "longitude": -79.19964
+    },
+    {
+      "area-code": 819,
+      "city": "Victoriaville",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.05007,
+      "longitude": -71.96579
+    },
+    {
+      "area-code": 819,
+      "city": "Gatineau",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.47723,
+      "longitude": -75.70164
+    },
+    {
+      "area-code": 819,
+      "city": "Saint-Léonard",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.58773,
+      "longitude": -73.59501
+    },
+    {
+      "area-code": 819,
+      "city": "Saint-Basile-le-Grand",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.53338,
+      "longitude": -73.28246
+    },
+    {
+      "area-code": 819,
+      "city": "Bois-des-Filion",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.66678,
+      "longitude": -73.74918
+    },
+    {
+      "area-code": 819,
+      "city": "Coaticook",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.13339,
+      "longitude": -71.79907
+    },
+    {
+      "area-code": 819,
+      "city": "Windsor",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.56678,
+      "longitude": -71.99909
+    },
+    {
+      "area-code": 819,
+      "city": "La Tuque",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 47.43337,
+      "longitude": -72.7824
+    },
+    {
+      "area-code": 819,
+      "city": "Sainte-Anne-des-Plaines",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.76468,
+      "longitude": -73.81156
+    },
+    {
+      "area-code": 819,
+      "city": "Saint-Jean-sur-Richelieu",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.30713,
+      "longitude": -73.26259
+    },
+    {
+      "area-code": 819,
+      "city": "Saint-Bruno-de-Montarville",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.53341,
+      "longitude": -73.34916
+    },
+    {
+      "area-code": 819,
+      "city": "Rivière-du-Loup",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 47.82699,
+      "longitude": -69.54243
+    },
+    {
+      "area-code": 819,
+      "city": "Jonquière",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.41648,
+      "longitude": -71.24884
+    },
+    {
+      "area-code": 825,
+      "city": "Calgary",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 51.05011,
+      "longitude": -114.08529
+    },
+    {
+      "area-code": 825,
+      "city": "Edmonton",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 53.55014,
+      "longitude": -113.46871
+    },
+    {
+      "area-code": 825,
+      "city": "Red Deer",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 52.26682,
+      "longitude": -113.802
+    },
+    {
+      "area-code": 825,
+      "city": "Fort McMurray",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 56.72676,
+      "longitude": -111.38103
+    },
+    {
+      "area-code": 825,
+      "city": "Westlock",
+      "province": "Alberta",
+      "country": "CA",
+      "latitude": 54.15016,
+      "longitude": -113.86876
+    },
+    {
+      "area-code": 867,
+      "city": "Yellowknife",
+      "province": "Northwest Territories",
+      "country": "CA",
+      "latitude": 62.456,
+      "longitude": -114.35255
+    },
+    {
+      "area-code": 867,
+      "city": "Iqaluit",
+      "province": "Nunavut",
+      "country": "CA",
+      "latitude": 63.74697,
+      "longitude": -68.51727
+    },
+    {
+      "area-code": 867,
+      "city": "Whitehorse",
+      "province": "Yukon Territory",
+      "country": "CA",
+      "latitude": 60.71611,
+      "longitude": -135.05375
+    },
+    {
+      "area-code": 873,
+      "city": "Sherbrooke",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.40008,
+      "longitude": -71.89908
+    },
+    {
+      "area-code": 873,
+      "city": "Sainte-Adèle",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.95008,
+      "longitude": -74.13251
+    },
+    {
+      "area-code": 873,
+      "city": "Trois-Rivières",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.34515,
+      "longitude": -72.5477
+    },
+    {
+      "area-code": 873,
+      "city": "Drummondville",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.88336,
+      "longitude": -72.48241
+    },
+    {
+      "area-code": 873,
+      "city": "Shawinigan",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.56675,
+      "longitude": -72.74913
+    },
+    {
+      "area-code": 873,
+      "city": "Saint-Lambert-de-Lauzon",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.58624,
+      "longitude": -71.20892
+    },
+    {
+      "area-code": 873,
+      "city": "Sainte-Agathe-des-Monts",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.05009,
+      "longitude": -74.28252
+    },
+    {
+      "area-code": 873,
+      "city": "Victoriaville",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.05007,
+      "longitude": -71.96579
+    },
+    {
+      "area-code": 873,
+      "city": "Sainte-Marie",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.43401,
+      "longitude": -71.01168
+    },
+    {
+      "area-code": 873,
+      "city": "Rouyn-Noranda",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.23656,
+      "longitude": -79.02311
+    },
+    {
+      "area-code": 873,
+      "city": "La Sarre",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.80019,
+      "longitude": -79.19964
+    },
+    {
+      "area-code": 873,
+      "city": "Val-d'Or",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.10018,
+      "longitude": -77.7828
+    },
+    {
+      "area-code": 873,
+      "city": "Mont-Laurier",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.55011,
+      "longitude": -75.4993
+    },
+    {
+      "area-code": 873,
+      "city": "Coaticook",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.13339,
+      "longitude": -71.79907
+    },
+    {
+      "area-code": 873,
+      "city": "Amos",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 48.56688,
+      "longitude": -78.11624
+    },
+    {
+      "area-code": 873,
+      "city": "Gatineau",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.47723,
+      "longitude": -75.70164
+    },
+    {
+      "area-code": 873,
+      "city": "Louiseville",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.25594,
+      "longitude": -72.94145
+    },
+    {
+      "area-code": 873,
+      "city": "Val-des-Monts",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.6501,
+      "longitude": -75.66604
+    },
+    {
+      "area-code": 873,
+      "city": "La Tuque",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 47.43337,
+      "longitude": -72.7824
+    },
+    {
+      "area-code": 873,
+      "city": "Magog",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.26678,
+      "longitude": -72.14909
+    },
+    {
+      "area-code": 873,
+      "city": "Notre-Dame-des-Prairies",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 46.05007,
+      "longitude": -73.43245
+    },
+    {
+      "area-code": 873,
+      "city": "Sainte-Marthe-sur-le-Lac",
+      "province": "Québec",
+      "country": "CA",
+      "latitude": 45.53338,
+      "longitude": -73.9325
+    },
+    {
+      "area-code": 902,
+      "city": "Charlottetown",
+      "province": "Prince Edward Island",
+      "country": "CA",
+      "latitude": 46.23525,
+      "longitude": -63.12671
+    },
+    {
+      "area-code": 902,
+      "city": "Sydney",
+      "province": "Nova Scotia",
+      "country": "CA",
+      "latitude": 46.1351,
+      "longitude": -60.1831
+    },
+    {
+      "area-code": 902,
+      "city": "Halifax",
+      "province": "Nova Scotia",
+      "country": "CA",
+      "latitude": 44.64533,
+      "longitude": -63.57239
+    },
+    {
+      "area-code": 902,
+      "city": "Bridgewater",
+      "province": "Nova Scotia",
+      "country": "CA",
+      "latitude": 44.37856,
+      "longitude": -64.51882
+    },
+    {
+      "area-code": 902,
+      "city": "Glace Bay",
+      "province": "Nova Scotia",
+      "country": "CA",
+      "latitude": 46.19695,
+      "longitude": -59.95698
+    },
+    {
+      "area-code": 902,
+      "city": "Amherst",
+      "province": "Nova Scotia",
+      "country": "CA",
+      "latitude": 45.83345,
+      "longitude": -64.19874
+    },
+    {
+      "area-code": 902,
+      "city": "Kentville",
+      "province": "Nova Scotia",
+      "country": "CA",
+      "latitude": 45.0771,
+      "longitude": -64.49605
+    },
+    {
+      "area-code": 902,
+      "city": "New Glasgow",
+      "province": "Nova Scotia",
+      "country": "CA",
+      "latitude": 45.58344,
+      "longitude": -62.64863
+    },
+    {
+      "area-code": 902,
+      "city": "Summerside",
+      "province": "Prince Edward Island",
+      "country": "CA",
+      "latitude": 46.39593,
+      "longitude": -63.78762
+    },
+    {
+      "area-code": 902,
+      "city": "Truro",
+      "province": "Nova Scotia",
+      "country": "CA",
+      "latitude": 45.36685,
+      "longitude": -63.26538
+    },
+    {
+      "area-code": 902,
+      "city": "Yarmouth",
+      "province": "Nova Scotia",
+      "country": "CA",
+      "latitude": 43.83345,
+      "longitude": -66.11557
+    },
+    {
+      "area-code": 902,
+      "city": "Antigonish",
+      "province": "Nova Scotia",
+      "country": "CA",
+      "latitude": 45.61685,
+      "longitude": -61.99858
+    },
+    {
+      "area-code": 905,
+      "city": "Markham",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.86682,
+      "longitude": -79.2663
+    },
+    {
+      "area-code": 905,
+      "city": "Milton",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.51681,
+      "longitude": -79.88294
+    },
+    {
+      "area-code": 905,
+      "city": "Cobourg",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.95977,
+      "longitude": -78.16515
+    },
+    {
+      "area-code": 905,
+      "city": "Oakville",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.45011,
+      "longitude": -79.68292
+    },
+    {
+      "area-code": 905,
+      "city": "Oshawa",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.90012,
+      "longitude": -78.84957
+    },
+    {
+      "area-code": 905,
+      "city": "Brampton",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.68341,
+      "longitude": -79.76633
+    },
+    {
+      "area-code": 905,
+      "city": "Hamilton",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.25011,
+      "longitude": -79.84963
+    },
+    {
+      "area-code": 905,
+      "city": "Burlington",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.38621,
+      "longitude": -79.83713
+    },
+    {
+      "area-code": 905,
+      "city": "Richmond Hill",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.87111,
+      "longitude": -79.43725
+    },
+    {
+      "area-code": 905,
+      "city": "St. Catharines",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.17126,
+      "longitude": -79.24267
+    },
+    {
+      "area-code": 905,
+      "city": "Ajax",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.85012,
+      "longitude": -79.03288
+    },
+    {
+      "area-code": 905,
+      "city": "Newmarket",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.05011,
+      "longitude": -79.46631
+    },
+    {
+      "area-code": 905,
+      "city": "Pickering",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.90012,
+      "longitude": -79.13289
+    },
+    {
+      "area-code": 905,
+      "city": "Niagara Falls",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.10012,
+      "longitude": -79.06627
+    },
+    {
+      "area-code": 905,
+      "city": "Ancaster",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 43.21806,
+      "longitude": -79.98716
+    },
+    {
+      "area-code": 905,
+      "city": "Welland",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 42.98342,
+      "longitude": -79.24958
+    },
+    {
+      "area-code": 905,
+      "city": "Keswick",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.25011,
+      "longitude": -79.46632
+    },
+    {
+      "area-code": 905,
+      "city": "Port Colborne",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 42.90012,
+      "longitude": -79.23288
+    },
+    {
+      "area-code": 905,
+      "city": "Uxbridge",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 44.10012,
+      "longitude": -79.11628
+    },
+    {
+      "area-code": 905,
+      "city": "Fort Erie",
+      "province": "Ontario",
+      "country": "CA",
+      "latitude": 42.90012,
+      "longitude": -78.93286
+    }
+  ]
