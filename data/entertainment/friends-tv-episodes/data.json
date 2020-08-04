@@ -1,0 +1,2362 @@
+[
+    {
+      "episode_number": 1,
+      "season": 1,
+      "episode_in_season": 1,
+      "title": "The Pilot",
+      "directed_by": "James Burrows",
+      "written_by": "David Crane & Marta Kauffman",
+      "air_date": "September 22, 1994",
+      "us_viewers_in_millions": 21.5
+    },
+    {
+      "episode_number": 2,
+      "season": 1,
+      "episode_in_season": 2,
+      "title": "The One with the Sonogram at the End",
+      "directed_by": "James Burrows",
+      "written_by": "David Crane & Marta Kauffman",
+      "air_date": "September 29, 1994",
+      "us_viewers_in_millions": 20.2
+    },
+    {
+      "episode_number": 3,
+      "season": 1,
+      "episode_in_season": 3,
+      "title": "The One with the Thumb",
+      "directed_by": "James Burrows",
+      "written_by": "Jeffrey Astrof & Mike Sikowitz",
+      "air_date": "October 6, 1994",
+      "us_viewers_in_millions": 19.5
+    },
+    {
+      "episode_number": 4,
+      "season": 1,
+      "episode_in_season": 4,
+      "title": "The One with George Stephanopoulos",
+      "directed_by": "James Burrows",
+      "written_by": "Alexa Junge",
+      "air_date": "October 13, 1994",
+      "us_viewers_in_millions": 19.7
+    },
+    {
+      "episode_number": 5,
+      "season": 1,
+      "episode_in_season": 5,
+      "title": "The One with the East German Laundry Detergent",
+      "directed_by": "Pamela Fryman",
+      "written_by": "Jeff Greenstein & Jeff Strauss",
+      "air_date": "October 20, 1994",
+      "us_viewers_in_millions": 18.6
+    },
+    {
+      "episode_number": 6,
+      "season": 1,
+      "episode_in_season": 6,
+      "title": "The One with the Butt",
+      "directed_by": "Arlene Sanford",
+      "written_by": "Adam Chase & Ira Ungerleider",
+      "air_date": "October 27, 1994",
+      "us_viewers_in_millions": 18.2
+    },
+    {
+      "episode_number": 7,
+      "season": 1,
+      "episode_in_season": 7,
+      "title": "The One with the Blackout",
+      "directed_by": "James Burrows",
+      "written_by": "Jeffrey Astrof & Mike Sikowitz",
+      "air_date": "November 3, 1994",
+      "us_viewers_in_millions": 23.5
+    },
+    {
+      "episode_number": 8,
+      "season": 1,
+      "episode_in_season": 8,
+      "title": "The One Where Nana Dies Twice",
+      "directed_by": "James Burrows",
+      "written_by": "Marta Kauffman & David Crane",
+      "air_date": "November 10, 1994",
+      "us_viewers_in_millions": 21.1
+    },
+    {
+      "episode_number": 9,
+      "season": 1,
+      "episode_in_season": 9,
+      "title": "The One Where Underdog Gets Away",
+      "directed_by": "James Burrows",
+      "written_by": "Jeff Greenstein & Jeff Strauss",
+      "air_date": "November 17, 1994",
+      "us_viewers_in_millions": 23.1
+    },
+    {
+      "episode_number": 10,
+      "season": 1,
+      "episode_in_season": 10,
+      "title": "The One with the Monkey",
+      "directed_by": "Peter Bonerz",
+      "written_by": "Adam Chase & Ira Ungerleider",
+      "air_date": "December 15, 1994",
+      "us_viewers_in_millions": 19.9
+    },
+    {
+      "episode_number": 11,
+      "season": 1,
+      "episode_in_season": 11,
+      "title": "The One with Mrs. Bing",
+      "directed_by": "James Burrows",
+      "written_by": "Alexa Junge",
+      "air_date": "January 5, 1995",
+      "us_viewers_in_millions": 26.6
+    },
+    {
+      "episode_number": 12,
+      "season": 1,
+      "episode_in_season": 12,
+      "title": "The One with the Dozen Lasagnas",
+      "directed_by": "Paul Lazarus",
+      "written_by": "Jeffrey Astrof & Mike Sikowitz & Adam Chase & Ira Ungerleider",
+      "air_date": "January 12, 1995",
+      "us_viewers_in_millions": 24
+    },
+    {
+      "episode_number": 13,
+      "season": 1,
+      "episode_in_season": 13,
+      "title": "The One with the Boobies",
+      "directed_by": "Alan Myerson",
+      "written_by": "Alexa Junge",
+      "air_date": "January 19, 1995",
+      "us_viewers_in_millions": 25.8
+    },
+    {
+      "episode_number": 14,
+      "season": 1,
+      "episode_in_season": 14,
+      "title": "The One with the Candy Hearts",
+      "directed_by": "James Burrows",
+      "written_by": "Bill Lawrence",
+      "air_date": "February 9, 1995",
+      "us_viewers_in_millions": 23.8
+    },
+    {
+      "episode_number": 15,
+      "season": 1,
+      "episode_in_season": 15,
+      "title": "The One with the Stoned Guy",
+      "directed_by": "Alan Myerson",
+      "written_by": "Jeff Greenstein & Jeff Strauss",
+      "air_date": "February 16, 1995",
+      "us_viewers_in_millions": 24.8
+    },
+    {
+      "episode_number": 16,
+      "season": 1,
+      "episode_in_season": 16,
+      "title": "The One with Two Parts: Part 1",
+      "directed_by": "Michael Lembeck",
+      "written_by": "Marta Kauffman & David Crane",
+      "air_date": "February 23, 1995",
+      "us_viewers_in_millions": 26.1
+    },
+    {
+      "episode_number": 17,
+      "season": 1,
+      "episode_in_season": 17,
+      "title": "The One with Two Parts: Part 2",
+      "directed_by": "Michael Lembeck",
+      "written_by": "Marta Kauffman & David Crane",
+      "air_date": "February 23, 1995",
+      "us_viewers_in_millions": 30.5
+    },
+    {
+      "episode_number": 18,
+      "season": 1,
+      "episode_in_season": 18,
+      "title": "The One with All the Poker",
+      "directed_by": "James Burrows",
+      "written_by": "Jeffrey Astrof & Mike Sikowitz",
+      "air_date": "March 2, 1995",
+      "us_viewers_in_millions": 30.4
+    },
+    {
+      "episode_number": 19,
+      "season": 1,
+      "episode_in_season": 19,
+      "title": "The One Where the Monkey Gets Away",
+      "directed_by": "Peter Bonerz",
+      "written_by": "Jeffrey Astrof & Mike Sikowitz",
+      "air_date": "March 9, 1995",
+      "us_viewers_in_millions": 29.4
+    },
+    {
+      "episode_number": 20,
+      "season": 1,
+      "episode_in_season": 20,
+      "title": "The One with the Evil Orthodontist",
+      "directed_by": "Peter Bonerz",
+      "written_by": "Doty Abrams",
+      "air_date": "April 6, 1995",
+      "us_viewers_in_millions": 30
+    },
+    {
+      "episode_number": 21,
+      "season": 1,
+      "episode_in_season": 21,
+      "title": "The One with the Fake Monica",
+      "directed_by": "Gail Mancuso",
+      "written_by": "Adam Chase & Ira Ungerleider",
+      "air_date": "April 27, 1995",
+      "us_viewers_in_millions": 28.4
+    },
+    {
+      "episode_number": 22,
+      "season": 1,
+      "episode_in_season": 22,
+      "title": "The One with the Ick Factor",
+      "directed_by": "Robby Benson",
+      "written_by": "Alexa Junge",
+      "air_date": "May 4, 1995",
+      "us_viewers_in_millions": 29.9
+    },
+    {
+      "episode_number": 23,
+      "season": 1,
+      "episode_in_season": 23,
+      "title": "The One with the Birth",
+      "directed_by": "James Burrows",
+      "written_by": "Story by : David Crane & Marta KauffmanTeleplay by : Jeff Greenstein & Jeff Strauss",
+      "air_date": "May 11, 1995",
+      "us_viewers_in_millions": 28.7
+    },
+    {
+      "episode_number": 24,
+      "season": 1,
+      "episode_in_season": 24,
+      "title": "The One Where Rachel Finds Out",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Chris Brown",
+      "air_date": "May 18, 1995",
+      "us_viewers_in_millions": 31.3
+    },
+    {
+      "episode_number": 25,
+      "season": 2,
+      "episode_in_season": 1,
+      "title": "The One with Ross's New Girlfriend",
+      "directed_by": "Michael Lembeck",
+      "written_by": "Jeffrey Astrof & Mike Sikowitz",
+      "air_date": "September 21, 1995",
+      "us_viewers_in_millions": 32.1
+    },
+    {
+      "episode_number": 26,
+      "season": 2,
+      "episode_in_season": 2,
+      "title": "The One with the Breast Milk",
+      "directed_by": "Michael Lembeck",
+      "written_by": "Adam Chase & Ira Ungerleider",
+      "air_date": "September 28, 1995",
+      "us_viewers_in_millions": 29.8
+    },
+    {
+      "episode_number": 27,
+      "season": 2,
+      "episode_in_season": 3,
+      "title": "The One Where Heckles Dies",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Michael Curtis & Gregory S. Malins",
+      "air_date": "October 5, 1995",
+      "us_viewers_in_millions": 30.2
+    },
+    {
+      "episode_number": 28,
+      "season": 2,
+      "episode_in_season": 4,
+      "title": "The One with Phoebe's Husband",
+      "directed_by": "Gail Mancuso",
+      "written_by": "Alexa Junge",
+      "air_date": "October 12, 1995",
+      "us_viewers_in_millions": 28.1
+    },
+    {
+      "episode_number": 29,
+      "season": 2,
+      "episode_in_season": 5,
+      "title": "The One with Five Steaks and an Eggplant",
+      "directed_by": "Ellen Gittelsohn",
+      "written_by": "Chris Brown",
+      "air_date": "October 19, 1995",
+      "us_viewers_in_millions": 28.3
+    },
+    {
+      "episode_number": 30,
+      "season": 2,
+      "episode_in_season": 6,
+      "title": "The One with the Baby on the Bus",
+      "directed_by": "Gail Mancuso",
+      "written_by": "Betsy Borns",
+      "air_date": "November 2, 1995",
+      "us_viewers_in_millions": 30.2
+    },
+    {
+      "episode_number": 31,
+      "season": 2,
+      "episode_in_season": 7,
+      "title": "The One Where Ross Finds Out",
+      "directed_by": "Peter Bonerz",
+      "written_by": "Michael Borkow",
+      "air_date": "November 9, 1995",
+      "us_viewers_in_millions": 30.5
+    },
+    {
+      "episode_number": 32,
+      "season": 2,
+      "episode_in_season": 8,
+      "title": "The One with the List",
+      "directed_by": "Mary Kay Place",
+      "written_by": "David Crane & Marta Kauffman",
+      "air_date": "November 16, 1995",
+      "us_viewers_in_millions": 32.9
+    },
+    {
+      "episode_number": 33,
+      "season": 2,
+      "episode_in_season": 9,
+      "title": "The One with Phoebe's Dad",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Jeffrey Astrof & Mike Sikowitz",
+      "air_date": "December 14, 1995",
+      "us_viewers_in_millions": 27.8
+    },
+    {
+      "episode_number": 34,
+      "season": 2,
+      "episode_in_season": 10,
+      "title": "The One with Russ",
+      "directed_by": "Thomas Schlamme",
+      "written_by": "Ira Ungerleider",
+      "air_date": "January 4, 1996",
+      "us_viewers_in_millions": 32.2
+    },
+    {
+      "episode_number": 35,
+      "season": 2,
+      "episode_in_season": 11,
+      "title": "The One with the Lesbian Wedding",
+      "directed_by": "Thomas Schlamme",
+      "written_by": "Doty Abrams",
+      "air_date": "January 18, 1996",
+      "us_viewers_in_millions": 31.6
+    },
+    {
+      "episode_number": 36,
+      "season": 2,
+      "episode_in_season": 12,
+      "title": "The One After the Superbowl” (part 1)",
+      "directed_by": "Michael Lembeck",
+      "written_by": "Jeffrey Astrof & Mike SikowitzMichael Borkow",
+      "air_date": "January 28, 1996",
+      "us_viewers_in_millions": 52.9
+    },
+    {
+      "episode_number": 37,
+      "season": 2,
+      "episode_in_season": 13,
+      "title": "The One After the Superbowl” (part 2)",
+      "directed_by": "Michael Lembeck",
+      "written_by": "Jeffrey Astrof & Mike SikowitzMichael Borkow",
+      "air_date": "January 28, 1996",
+      "us_viewers_in_millions": 52.9
+    },
+    {
+      "episode_number": 38,
+      "season": 2,
+      "episode_in_season": 14,
+      "title": "The One with the Prom Video",
+      "directed_by": "James Burrows",
+      "written_by": "Alexa Junge",
+      "air_date": "February 1, 1996",
+      "us_viewers_in_millions": 33.6
+    },
+    {
+      "episode_number": 39,
+      "season": 2,
+      "episode_in_season": 15,
+      "title": "The One Where Ross and Rachel...You Know",
+      "directed_by": "Michael Lembeck",
+      "written_by": "Michael Curtis & Gregory S. Malins",
+      "air_date": "February 8, 1996",
+      "us_viewers_in_millions": 32.9
+    },
+    {
+      "episode_number": 40,
+      "season": 2,
+      "episode_in_season": 16,
+      "title": "The One Where Joey Moves Out",
+      "directed_by": "Michael Lembeck",
+      "written_by": "Betsy Borns",
+      "air_date": "February 15, 1996",
+      "us_viewers_in_millions": 31.1
+    },
+    {
+      "episode_number": 41,
+      "season": 2,
+      "episode_in_season": 17,
+      "title": "The One Where Eddie Moves In",
+      "directed_by": "Michael Lembeck",
+      "written_by": "Adam Chase",
+      "air_date": "February 22, 1996",
+      "us_viewers_in_millions": 30.2
+    },
+    {
+      "episode_number": 42,
+      "season": 2,
+      "episode_in_season": 18,
+      "title": "The One Where Dr. Ramoray Dies",
+      "directed_by": "Michael Lembeck",
+      "written_by": "Story by : Alexa JungeTeleplay by : Michael Borkow",
+      "air_date": "March 21, 1996",
+      "us_viewers_in_millions": 30.1
+    },
+    {
+      "episode_number": 43,
+      "season": 2,
+      "episode_in_season": 19,
+      "title": "The One Where Eddie Won't Go",
+      "directed_by": "Michael Lembeck",
+      "written_by": "Michael Curtis & Gregory S. Malins",
+      "air_date": "March 28, 1996",
+      "us_viewers_in_millions": 31.2
+    },
+    {
+      "episode_number": 44,
+      "season": 2,
+      "episode_in_season": 20,
+      "title": "The One Where Old Yeller Dies",
+      "directed_by": "Michael Lembeck",
+      "written_by": "Story by : Michael Curtis & Gregory S. MalinsTeleplay by : Adam Chase",
+      "air_date": "April 4, 1996",
+      "us_viewers_in_millions": 27.4
+    },
+    {
+      "episode_number": 45,
+      "season": 2,
+      "episode_in_season": 21,
+      "title": "The One with the Bullies",
+      "directed_by": "Michael Lembeck",
+      "written_by": "Brian Buckner & Sebastian Jones",
+      "air_date": "April 25, 1996",
+      "us_viewers_in_millions": 24.7
+    },
+    {
+      "episode_number": 46,
+      "season": 2,
+      "episode_in_season": 22,
+      "title": "The One with the Two Parties",
+      "directed_by": "Michael Lembeck",
+      "written_by": "Alexa Junge",
+      "air_date": "May 2, 1996",
+      "us_viewers_in_millions": 25.5
+    },
+    {
+      "episode_number": 47,
+      "season": 2,
+      "episode_in_season": 23,
+      "title": "The One with the Chicken Pox",
+      "directed_by": "Michael Lembeck",
+      "written_by": "Brown Mandell",
+      "air_date": "May 9, 1996",
+      "us_viewers_in_millions": 26.1
+    },
+    {
+      "episode_number": 48,
+      "season": 2,
+      "episode_in_season": 24,
+      "title": "The One with Barry and Mindy's Wedding",
+      "directed_by": "Michael Lembeck",
+      "written_by": "Story by : Ira UngerleiderTeleplay by : Brown Mandell",
+      "air_date": "May 16, 1996",
+      "us_viewers_in_millions": 29
+    },
+    {
+      "episode_number": 49,
+      "season": 3,
+      "episode_in_season": 1,
+      "title": "The One with the Princess Leia Fantasy",
+      "directed_by": "Gail Mancuso",
+      "written_by": "Michael Curtis & Gregory S. Malins",
+      "air_date": "September 19, 1996",
+      "us_viewers_in_millions": 26.8
+    },
+    {
+      "episode_number": 50,
+      "season": 3,
+      "episode_in_season": 2,
+      "title": "The One Where No One's Ready",
+      "directed_by": "Gail Mancuso",
+      "written_by": "Ira Ungerleider",
+      "air_date": "September 26, 1996",
+      "us_viewers_in_millions": 26.7
+    },
+    {
+      "episode_number": 51,
+      "season": 3,
+      "episode_in_season": 3,
+      "title": "The One with the Jam",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Wil Calhoun",
+      "air_date": "October 3, 1996",
+      "us_viewers_in_millions": 25.2
+    },
+    {
+      "episode_number": 52,
+      "season": 3,
+      "episode_in_season": 4,
+      "title": "The One with the Metaphorical Tunnel",
+      "directed_by": "Steve Zuckerman",
+      "written_by": "Alexa Junge",
+      "air_date": "October 10, 1996",
+      "us_viewers_in_millions": 26.1
+    },
+    {
+      "episode_number": 53,
+      "season": 3,
+      "episode_in_season": 5,
+      "title": "The One with Frank Jr.",
+      "directed_by": "Steve Zuckerman",
+      "written_by": "Shana Goldberg-Meehan & Scott Silveri",
+      "air_date": "October 17, 1996",
+      "us_viewers_in_millions": 23.3
+    },
+    {
+      "episode_number": 54,
+      "season": 3,
+      "episode_in_season": 6,
+      "title": "The One with the Flashback",
+      "directed_by": "Peter Bonerz",
+      "written_by": "David Crane & Marta Kauffman",
+      "air_date": "October 31, 1996",
+      "us_viewers_in_millions": 23.3
+    },
+    {
+      "episode_number": 55,
+      "season": 3,
+      "episode_in_season": 7,
+      "title": "The One with the Race Car Bed",
+      "directed_by": "Gail Mancuso",
+      "written_by": "Seth Kurland",
+      "air_date": "November 7, 1996",
+      "us_viewers_in_millions": 27.4
+    },
+    {
+      "episode_number": 56,
+      "season": 3,
+      "episode_in_season": 8,
+      "title": "The One with the Giant Poking Device",
+      "directed_by": "Gail Mancuso",
+      "written_by": "Adam Chase",
+      "air_date": "November 14, 1996",
+      "us_viewers_in_millions": 28.7
+    },
+    {
+      "episode_number": 57,
+      "season": 3,
+      "episode_in_season": 9,
+      "title": "The One with the Football",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Ira Ungerleider",
+      "air_date": "November 21, 1996",
+      "us_viewers_in_millions": 29.3
+    },
+    {
+      "episode_number": 58,
+      "season": 3,
+      "episode_in_season": 10,
+      "title": "The One Where Rachel Quits",
+      "directed_by": "Terry Hughes",
+      "written_by": "Gregory S. Malins & Michael Curtis",
+      "air_date": "December 12, 1996",
+      "us_viewers_in_millions": 25.1
+    },
+    {
+      "episode_number": 59,
+      "season": 3,
+      "episode_in_season": 11,
+      "title": "The One Where Chandler Can't Remember Which Sister",
+      "directed_by": "Terry Hughes",
+      "written_by": "Alexa Junge",
+      "air_date": "January 9, 1997",
+      "us_viewers_in_millions": 29.8
+    },
+    {
+      "episode_number": 60,
+      "season": 3,
+      "episode_in_season": 12,
+      "title": "The One with All the Jealousy",
+      "directed_by": "Robby Benson",
+      "written_by": "Doty Abrams",
+      "air_date": "January 16, 1997",
+      "us_viewers_in_millions": 29.6
+    },
+    {
+      "episode_number": 61,
+      "season": 3,
+      "episode_in_season": 13,
+      "title": "The One Where Monica and Richard Are Just Friends",
+      "directed_by": "Robby Benson",
+      "written_by": "Michael Borkow",
+      "air_date": "January 30, 1997",
+      "us_viewers_in_millions": 28
+    },
+    {
+      "episode_number": 62,
+      "season": 3,
+      "episode_in_season": 14,
+      "title": "The One with Phoebe's Ex-Partner",
+      "directed_by": "Robby Benson",
+      "written_by": "Wil Calhoun",
+      "air_date": "February 6, 1997",
+      "us_viewers_in_millions": 28.9
+    },
+    {
+      "episode_number": 63,
+      "season": 3,
+      "episode_in_season": 15,
+      "title": "The One Where Ross and Rachel Take a Break",
+      "directed_by": "James Burrows",
+      "written_by": "Michael Borkow",
+      "air_date": "February 13, 1997",
+      "us_viewers_in_millions": 27.3
+    },
+    {
+      "episode_number": 64,
+      "season": 3,
+      "episode_in_season": 16,
+      "title": "The One with the Morning After",
+      "directed_by": "James Burrows",
+      "written_by": "David Crane & Marta Kauffman",
+      "air_date": "February 20, 1997",
+      "us_viewers_in_millions": 28.3
+    },
+    {
+      "episode_number": 65,
+      "season": 3,
+      "episode_in_season": 17,
+      "title": "The One Without the Ski Trip",
+      "directed_by": "Sam Simon",
+      "written_by": "Shana Goldberg-Meehan & Scott Silveri",
+      "air_date": "March 6, 1997",
+      "us_viewers_in_millions": 25.8
+    },
+    {
+      "episode_number": 66,
+      "season": 3,
+      "episode_in_season": 18,
+      "title": "The One with the Hypnosis Tape",
+      "directed_by": "Robby Benson",
+      "written_by": "Seth Kurland",
+      "air_date": "March 13, 1997",
+      "us_viewers_in_millions": 28.1
+    },
+    {
+      "episode_number": 67,
+      "season": 3,
+      "episode_in_season": 19,
+      "title": "The One with the Tiny T-Shirt",
+      "directed_by": "Terry Hughes",
+      "written_by": "Adam Chase",
+      "air_date": "March 27, 1997",
+      "us_viewers_in_millions": 23.7
+    },
+    {
+      "episode_number": 68,
+      "season": 3,
+      "episode_in_season": 20,
+      "title": "The One with the Dollhouse",
+      "directed_by": "Terry Hughes",
+      "written_by": "Wil Calhoun",
+      "air_date": "April 10, 1997",
+      "us_viewers_in_millions": 24.4
+    },
+    {
+      "episode_number": 69,
+      "season": 3,
+      "episode_in_season": 21,
+      "title": "The One with a Chick and a Duck",
+      "directed_by": "Michael Lembeck",
+      "written_by": "Chris Brown",
+      "air_date": "April 17, 1997",
+      "us_viewers_in_millions": 23.2
+    },
+    {
+      "episode_number": 70,
+      "season": 3,
+      "episode_in_season": 22,
+      "title": "The One with the Screamer",
+      "directed_by": "Peter Bonerz",
+      "written_by": "Shana Goldberg-Meehan & Scott Silveri",
+      "air_date": "April 24, 1997",
+      "us_viewers_in_millions": 22.6
+    },
+    {
+      "episode_number": 71,
+      "season": 3,
+      "episode_in_season": 23,
+      "title": "The One with Ross's Thing",
+      "directed_by": "Shelley Jensen",
+      "written_by": "Ted Cohen & Andrew Reich",
+      "air_date": "May 1, 1997",
+      "us_viewers_in_millions": 24.2
+    },
+    {
+      "episode_number": 72,
+      "season": 3,
+      "episode_in_season": 24,
+      "title": "The One with the Ultimate Fighting Champion",
+      "directed_by": "Robby Benson",
+      "written_by": "Story by : Pang-Ni Landrum & Mark KunerthTeleplay by : Shana Goldberg-Meehan & Scott Silveri",
+      "air_date": "May 8, 1997",
+      "us_viewers_in_millions": 23.1
+    },
+    {
+      "episode_number": 73,
+      "season": 3,
+      "episode_in_season": 25,
+      "title": "The One at the Beach",
+      "directed_by": "Pamela Fryman",
+      "written_by": "Story by : Pang-Ni Landrum & Mark KunerthTeleplay by : Adam Chase",
+      "air_date": "May 15, 1997",
+      "us_viewers_in_millions": 28.8
+    },
+    {
+      "episode_number": 74,
+      "season": 4,
+      "episode_in_season": 1,
+      "title": "The One with the Jellyfish",
+      "directed_by": "Shelley Jensen",
+      "written_by": "Wil Calhoun",
+      "air_date": "September 25, 1997",
+      "us_viewers_in_millions": 29.4
+    },
+    {
+      "episode_number": 75,
+      "season": 4,
+      "episode_in_season": 2,
+      "title": "The One with the Cat",
+      "directed_by": "Shelley Jensen",
+      "written_by": "Jill Condon & Amy Toomin",
+      "air_date": "October 2, 1997",
+      "us_viewers_in_millions": 25.5
+    },
+    {
+      "episode_number": 76,
+      "season": 4,
+      "episode_in_season": 3,
+      "title": "The One with the Cuffs",
+      "directed_by": "Peter Bonerz",
+      "written_by": "Seth Kurland",
+      "air_date": "October 9, 1997",
+      "us_viewers_in_millions": 24
+    },
+    {
+      "episode_number": 77,
+      "season": 4,
+      "episode_in_season": 4,
+      "title": "The One with the Ballroom Dancing",
+      "directed_by": "Gail Mancuso",
+      "written_by": "Ted Cohen & Andrew Reich",
+      "air_date": "October 16, 1997",
+      "us_viewers_in_millions": 24.3
+    },
+    {
+      "episode_number": 78,
+      "season": 4,
+      "episode_in_season": 5,
+      "title": "The One with Joey's New Girlfriend",
+      "directed_by": "Gail Mancuso",
+      "written_by": "Gregory S. Malins & Michael Curtis",
+      "air_date": "October 30, 1997",
+      "us_viewers_in_millions": 24.4
+    },
+    {
+      "episode_number": 79,
+      "season": 4,
+      "episode_in_season": 6,
+      "title": "The One with the Dirty Girl",
+      "directed_by": "Shelley Jensen",
+      "written_by": "Shana Goldberg-Meehan & Scott Silveri",
+      "air_date": "November 6, 1997",
+      "us_viewers_in_millions": 25.7
+    },
+    {
+      "episode_number": 80,
+      "season": 4,
+      "episode_in_season": 7,
+      "title": "The One Where Chandler Crosses the Line",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Adam Chase",
+      "air_date": "November 13, 1997",
+      "us_viewers_in_millions": 26.4
+    },
+    {
+      "episode_number": 81,
+      "season": 4,
+      "episode_in_season": 8,
+      "title": "The One with Chandler in a Box",
+      "directed_by": "Peter Bonerz",
+      "written_by": "Michael Borkow",
+      "air_date": "November 20, 1997",
+      "us_viewers_in_millions": 26.8
+    },
+    {
+      "episode_number": 82,
+      "season": 4,
+      "episode_in_season": 9,
+      "title": "The One Where They're Going to Party!",
+      "directed_by": "Peter Bonerz",
+      "written_by": "Ted Cohen & Andrew Reich",
+      "air_date": "December 11, 1997",
+      "us_viewers_in_millions": 23.9
+    },
+    {
+      "episode_number": 83,
+      "season": 4,
+      "episode_in_season": 10,
+      "title": "The One with the Girl from Poughkeepsie",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Scott Silveri",
+      "air_date": "December 18, 1997",
+      "us_viewers_in_millions": 23.2
+    },
+    {
+      "episode_number": 84,
+      "season": 4,
+      "episode_in_season": 11,
+      "title": "The One with Phoebe's Uterus",
+      "directed_by": "David Steinberg",
+      "written_by": "Seth Kurland",
+      "air_date": "January 8, 1998",
+      "us_viewers_in_millions": 23.7
+    },
+    {
+      "episode_number": 85,
+      "season": 4,
+      "episode_in_season": 12,
+      "title": "The One with the Embryos",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Jill Condon & Amy Toomin",
+      "air_date": "January 15, 1998",
+      "us_viewers_in_millions": 27.1
+    },
+    {
+      "episode_number": 86,
+      "season": 4,
+      "episode_in_season": 13,
+      "title": "The One with Rachel's Crush",
+      "directed_by": "Dana DeVally Piazza",
+      "written_by": "Shana Goldberg-Meehan",
+      "air_date": "January 29, 1998",
+      "us_viewers_in_millions": 25.3
+    },
+    {
+      "episode_number": 87,
+      "season": 4,
+      "episode_in_season": 14,
+      "title": "The One with Joey's Dirty Day",
+      "directed_by": "Peter Bonerz",
+      "written_by": "Wil Calhoun",
+      "air_date": "February 5, 1998",
+      "us_viewers_in_millions": 25.1
+    },
+    {
+      "episode_number": 88,
+      "season": 4,
+      "episode_in_season": 15,
+      "title": "The One with All the Rugby",
+      "directed_by": "James Burrows",
+      "written_by": "Story by : Ted Cohen & Andrew ReichTeleplay by : Wil Calhoun",
+      "air_date": "February 26, 1998",
+      "us_viewers_in_millions": 24.4
+    },
+    {
+      "episode_number": 89,
+      "season": 4,
+      "episode_in_season": 16,
+      "title": "The One with the Fake Party",
+      "directed_by": "Michael Lembeck",
+      "written_by": "Story by : Alicia Sky VarinaitisTeleplay by : Scott Silveri & Shana Goldberg-Meehan",
+      "air_date": "March 19, 1998",
+      "us_viewers_in_millions": 23.1
+    },
+    {
+      "episode_number": 90,
+      "season": 4,
+      "episode_in_season": 17,
+      "title": "The One with the Free Porn",
+      "directed_by": "Michael Lembeck",
+      "written_by": "Story by : Mark KunerthTeleplay by : Richard Goodman",
+      "air_date": "March 26, 1998",
+      "us_viewers_in_millions": 23.2
+    },
+    {
+      "episode_number": 91,
+      "season": 4,
+      "episode_in_season": 18,
+      "title": "The One with Rachel's New Dress",
+      "directed_by": "Gail Mancuso",
+      "written_by": "Story by : Andrew Reich & Ted CohenTeleplay by : Jill Condon & Amy Toomin",
+      "air_date": "April 2, 1998",
+      "us_viewers_in_millions": 21.7
+    },
+    {
+      "episode_number": 92,
+      "season": 4,
+      "episode_in_season": 19,
+      "title": "The One with All the Haste",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Scott Silveri & Wil Calhoun",
+      "air_date": "April 9, 1998",
+      "us_viewers_in_millions": 21.8
+    },
+    {
+      "episode_number": 93,
+      "season": 4,
+      "episode_in_season": 20,
+      "title": "The One with All the Wedding Dresses",
+      "directed_by": "Gail Mancuso",
+      "written_by": "Story by : Adam ChaseTeleplay by : Gregory S. Malins & Michael Curtis",
+      "air_date": "April 16, 1998",
+      "us_viewers_in_millions": 21.9
+    },
+    {
+      "episode_number": 94,
+      "season": 4,
+      "episode_in_season": 21,
+      "title": "The One with the Invitation",
+      "directed_by": "Peter Bonerz",
+      "written_by": "Seth Kurland",
+      "air_date": "April 23, 1998",
+      "us_viewers_in_millions": 21.5
+    },
+    {
+      "episode_number": 95,
+      "season": 4,
+      "episode_in_season": 22,
+      "title": "The One with the Worst Best Man Ever",
+      "directed_by": "Peter Bonerz",
+      "written_by": "Story by : Seth KurlandTeleplay by : Gregory S. Malins & Michael Curtis",
+      "air_date": "April 30, 1998",
+      "us_viewers_in_millions": 23.2
+    },
+    {
+      "episode_number": 96,
+      "season": 4,
+      "episode_in_season": 23,
+      "title": "The One with Ross' Wedding” (part 1)",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Michael BorkowStory by : Jill Condon & Amy ToominTeleplay by : Shana Goldberg-Meehan & Scott Silveri",
+      "air_date": "May 7, 1998",
+      "us_viewers_in_millions": 31.6
+    },
+    {
+      "episode_number": 97,
+      "season": 4,
+      "episode_in_season": 24,
+      "title": "The One with Ross' Wedding” (part 2)",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Michael BorkowStory by : Jill Condon & Amy ToominTeleplay by : Shana Goldberg-Meehan & Scott Silveri",
+      "air_date": "May 7, 1998",
+      "us_viewers_in_millions": 31.6
+    },
+    {
+      "episode_number": 98,
+      "season": 5,
+      "episode_in_season": 1,
+      "title": "The One After Ross Says Rachel",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Seth Kurland",
+      "air_date": "September 24, 1998",
+      "us_viewers_in_millions": 31.1
+    },
+    {
+      "episode_number": 99,
+      "season": 5,
+      "episode_in_season": 2,
+      "title": "The One with All the Kissing",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Wil Calhoun",
+      "air_date": "October 1, 1998",
+      "us_viewers_in_millions": 25.4
+    },
+    {
+      "episode_number": 100,
+      "season": 5,
+      "episode_in_season": 3,
+      "title": "The One Hundredth\"\"The One with the Triplets",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "David Crane & Marta Kauffman",
+      "air_date": "October 8, 1998",
+      "us_viewers_in_millions": 26.8
+    },
+    {
+      "episode_number": 101,
+      "season": 5,
+      "episode_in_season": 4,
+      "title": "The One Where Phoebe Hates PBS",
+      "directed_by": "Shelley Jensen",
+      "written_by": "Michael Curtis",
+      "air_date": "October 15, 1998",
+      "us_viewers_in_millions": 24.1
+    },
+    {
+      "episode_number": 102,
+      "season": 5,
+      "episode_in_season": 5,
+      "title": "The One with the Kips",
+      "directed_by": "Dana DeValley Piazza",
+      "written_by": "Scott Silveri",
+      "air_date": "October 29, 1998",
+      "us_viewers_in_millions": 25.9
+    },
+    {
+      "episode_number": 103,
+      "season": 5,
+      "episode_in_season": 6,
+      "title": "The One with the Yeti",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Alexa Junge",
+      "air_date": "November 5, 1998",
+      "us_viewers_in_millions": 25
+    },
+    {
+      "episode_number": 104,
+      "season": 5,
+      "episode_in_season": 7,
+      "title": "The One Where Ross Moves In",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Gigi McCreery & Perry Rein",
+      "air_date": "November 12, 1998",
+      "us_viewers_in_millions": 24.4
+    },
+    {
+      "episode_number": 105,
+      "season": 5,
+      "episode_in_season": 8,
+      "title": "The One with All the Thanksgivings",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Gregory S. Malins",
+      "air_date": "November 19, 1998",
+      "us_viewers_in_millions": 23.9
+    },
+    {
+      "episode_number": 106,
+      "season": 5,
+      "episode_in_season": 9,
+      "title": "The One with Ross's Sandwich",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Ted Cohen & Andrew Reich",
+      "air_date": "December 10, 1998",
+      "us_viewers_in_millions": 23
+    },
+    {
+      "episode_number": 107,
+      "season": 5,
+      "episode_in_season": 10,
+      "title": "The One with the Inappropriate Sister",
+      "directed_by": "Dana DeValley Piazza",
+      "written_by": "Shana Goldberg-Meehan",
+      "air_date": "December 17, 1998",
+      "us_viewers_in_millions": 23.7
+    },
+    {
+      "episode_number": 108,
+      "season": 5,
+      "episode_in_season": 11,
+      "title": "The One with All the Resolutions",
+      "directed_by": "Joe Regalbuto",
+      "written_by": "Story by : Brian BoyleTeleplay by : Suzie Villandry",
+      "air_date": "January 7, 1999",
+      "us_viewers_in_millions": 27
+    },
+    {
+      "episode_number": 109,
+      "season": 5,
+      "episode_in_season": 12,
+      "title": "The One with Chandler's Work Laugh",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Alicia Sky Varinaitis",
+      "air_date": "January 21, 1999",
+      "us_viewers_in_millions": 24.8
+    },
+    {
+      "episode_number": 110,
+      "season": 5,
+      "episode_in_season": 13,
+      "title": "The One with Joey's Bag",
+      "directed_by": "Gail Mancuso",
+      "written_by": "Story by : Michael CurtisTeleplay by : Seth Kurland",
+      "air_date": "February 4, 1999",
+      "us_viewers_in_millions": 24.9
+    },
+    {
+      "episode_number": 111,
+      "season": 5,
+      "episode_in_season": 14,
+      "title": "The One Where Everybody Finds Out",
+      "directed_by": "Michael Lembeck",
+      "written_by": "Alexa Junge",
+      "air_date": "February 11, 1999",
+      "us_viewers_in_millions": 27.7
+    },
+    {
+      "episode_number": 112,
+      "season": 5,
+      "episode_in_season": 15,
+      "title": "The One with the Girl Who Hits Joey",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Adam Chase",
+      "air_date": "February 18, 1999",
+      "us_viewers_in_millions": 29.3
+    },
+    {
+      "episode_number": 113,
+      "season": 5,
+      "episode_in_season": 16,
+      "title": "The One with the Cop",
+      "directed_by": "Andrew Tsao",
+      "written_by": "Story by : Alicia Sky VarinaitisTeleplay by : Gigi McCreery & Perry Rein",
+      "air_date": "February 25, 1999",
+      "us_viewers_in_millions": 26
+    },
+    {
+      "episode_number": 114,
+      "season": 5,
+      "episode_in_season": 17,
+      "title": "The One with Rachel's Inadvertent Kiss",
+      "directed_by": "Shelley Jensen",
+      "written_by": "Andrew Reich & Ted Cohen",
+      "air_date": "March 18, 1999",
+      "us_viewers_in_millions": 24.5
+    },
+    {
+      "episode_number": 115,
+      "season": 5,
+      "episode_in_season": 18,
+      "title": "The One Where Rachel Smokes",
+      "directed_by": "Todd Holland",
+      "written_by": "Michael Curtis",
+      "air_date": "April 8, 1999",
+      "us_viewers_in_millions": 21.9
+    },
+    {
+      "episode_number": 116,
+      "season": 5,
+      "episode_in_season": 19,
+      "title": "The One Where Ross Can't Flirt",
+      "directed_by": "Gail Mancuso",
+      "written_by": "Doty Abrams",
+      "air_date": "April 22, 1999",
+      "us_viewers_in_millions": 20.9
+    },
+    {
+      "episode_number": 117,
+      "season": 5,
+      "episode_in_season": 20,
+      "title": "The One with the Ride-Along",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Shana Goldberg-Meehan & Seth Kurland",
+      "air_date": "April 29, 1999",
+      "us_viewers_in_millions": 19.6
+    },
+    {
+      "episode_number": 118,
+      "season": 5,
+      "episode_in_season": 21,
+      "title": "The One with the Ball",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Story by : Scott SilveriTeleplay by : Gregory S. Malins",
+      "air_date": "May 6, 1999",
+      "us_viewers_in_millions": 20.9
+    },
+    {
+      "episode_number": 119,
+      "season": 5,
+      "episode_in_season": 22,
+      "title": "The One with Joey's Big Break",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Story by : Shana Goldberg-MeehanTeleplay by : Wil Calhoun",
+      "air_date": "May 13, 1999",
+      "us_viewers_in_millions": 21.3
+    },
+    {
+      "episode_number": 120,
+      "season": 5,
+      "episode_in_season": 23,
+      "title": "The One in Vegas” (part 1)",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Ted Cohen & Andrew ReichGregory S. Malins & Scott Silveri",
+      "air_date": "May 20, 1999",
+      "us_viewers_in_millions": 25.9
+    },
+    {
+      "episode_number": 121,
+      "season": 5,
+      "episode_in_season": 24,
+      "title": "The One in Vegas” (part 2)",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Ted Cohen & Andrew ReichGregory S. Malins & Scott Silveri",
+      "air_date": "May 20, 1999",
+      "us_viewers_in_millions": 25.9
+    },
+    {
+      "episode_number": 122,
+      "season": 6,
+      "episode_in_season": 1,
+      "title": "The One After Vegas",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Adam Chase",
+      "air_date": "September 23, 1999",
+      "us_viewers_in_millions": 27.7
+    },
+    {
+      "episode_number": 123,
+      "season": 6,
+      "episode_in_season": 2,
+      "title": "The One Where Ross Hugs Rachel",
+      "directed_by": "Gail Mancuso",
+      "written_by": "Shana Goldberg-Meehan",
+      "air_date": "September 30, 1999",
+      "us_viewers_in_millions": 22.9
+    },
+    {
+      "episode_number": 124,
+      "season": 6,
+      "episode_in_season": 3,
+      "title": "The One with Ross's Denial",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Seth Kurland",
+      "air_date": "October 7, 1999",
+      "us_viewers_in_millions": 21.6
+    },
+    {
+      "episode_number": 125,
+      "season": 6,
+      "episode_in_season": 4,
+      "title": "The One Where Joey Loses His Insurance",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Andrew Reich & Ted Cohen",
+      "air_date": "October 14, 1999",
+      "us_viewers_in_millions": 21.1
+    },
+    {
+      "episode_number": 126,
+      "season": 6,
+      "episode_in_season": 5,
+      "title": "The One with Joey's Porsche",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Perry Rein & Gigi McCreery",
+      "air_date": "October 21, 1999",
+      "us_viewers_in_millions": 22.4
+    },
+    {
+      "episode_number": 127,
+      "season": 6,
+      "episode_in_season": 6,
+      "title": "The One on the Last Night",
+      "directed_by": "David Schwimmer",
+      "written_by": "Scott Silveri",
+      "air_date": "November 4, 1999",
+      "us_viewers_in_millions": 23.6
+    },
+    {
+      "episode_number": 128,
+      "season": 6,
+      "episode_in_season": 7,
+      "title": "The One Where Phoebe Runs",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Sherry Bilsing-Graham & Ellen Plummer",
+      "air_date": "November 11, 1999",
+      "us_viewers_in_millions": 22.7
+    },
+    {
+      "episode_number": 129,
+      "season": 6,
+      "episode_in_season": 8,
+      "title": "The One with Ross's Teeth",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Story by : Andrew Reich & Ted CohenTeleplay by : Perry Rein & Gigi McCreery",
+      "air_date": "November 18, 1999",
+      "us_viewers_in_millions": 22.1
+    },
+    {
+      "episode_number": 130,
+      "season": 6,
+      "episode_in_season": 9,
+      "title": "The One Where Ross Got High",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Gregory S. Malins",
+      "air_date": "November 25, 1999",
+      "us_viewers_in_millions": 19.2
+    },
+    {
+      "episode_number": 131,
+      "season": 6,
+      "episode_in_season": 10,
+      "title": "The One with the Routine",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Brian Boyle",
+      "air_date": "December 16, 1999",
+      "us_viewers_in_millions": 22.4
+    },
+    {
+      "episode_number": 132,
+      "season": 6,
+      "episode_in_season": 11,
+      "title": "The One with the Apothecary Table",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Story by : Zachary RosenblattTeleplay by : Brian Boyle",
+      "air_date": "January 6, 2000",
+      "us_viewers_in_millions": 22.3
+    },
+    {
+      "episode_number": 133,
+      "season": 6,
+      "episode_in_season": 12,
+      "title": "The One with the Joke",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Story by : Shana Goldberg-MeehanTeleplay by : Andrew Reich & Ted Cohen",
+      "air_date": "January 13, 2000",
+      "us_viewers_in_millions": 22.3
+    },
+    {
+      "episode_number": 134,
+      "season": 6,
+      "episode_in_season": 13,
+      "title": "The One with Rachel's Sister",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Story by : Seth KurlandTeleplay by : Sherry Bilsing-Graham & Ellen Plummer",
+      "air_date": "February 3, 2000",
+      "us_viewers_in_millions": 24.1
+    },
+    {
+      "episode_number": 135,
+      "season": 6,
+      "episode_in_season": 14,
+      "title": "The One Where Chandler Can't Cry",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Andrew Reich & Ted Cohen",
+      "air_date": "February 10, 2000",
+      "us_viewers_in_millions": 23.8
+    },
+    {
+      "episode_number": 136,
+      "season": 6,
+      "episode_in_season": 15,
+      "title": "The One That Could Have Been” (part 1)",
+      "directed_by": "Michael Lembeck",
+      "written_by": "Gregory S. Malins & Adam ChaseDavid Crane & Marta Kauffman",
+      "air_date": "February 17, 2000",
+      "us_viewers_in_millions": 20.7
+    },
+    {
+      "episode_number": 137,
+      "season": 6,
+      "episode_in_season": 16,
+      "title": "The One That Could Have Been” (part 2)",
+      "directed_by": "Michael Lembeck",
+      "written_by": "Gregory S. Malins & Adam ChaseDavid Crane & Marta Kauffman",
+      "air_date": "February 17, 2000",
+      "us_viewers_in_millions": 20.7
+    },
+    {
+      "episode_number": 138,
+      "season": 6,
+      "episode_in_season": 17,
+      "title": "The One with Unagi",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Story by : Zachary RosenblattTeleplay by : Adam Chase",
+      "air_date": "February 24, 2000",
+      "us_viewers_in_millions": 22.1
+    },
+    {
+      "episode_number": 139,
+      "season": 6,
+      "episode_in_season": 18,
+      "title": "The One Where Ross Dates a Student",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Seth Kurland",
+      "air_date": "March 9, 2000",
+      "us_viewers_in_millions": 20.5
+    },
+    {
+      "episode_number": 140,
+      "season": 6,
+      "episode_in_season": 19,
+      "title": "The One with Joey's Fridge",
+      "directed_by": "Ben Weiss",
+      "written_by": "Story by : Seth KurlandTeleplay by : Gigi McCreery & Perry Rein",
+      "air_date": "March 23, 2000",
+      "us_viewers_in_millions": 21.5
+    },
+    {
+      "episode_number": 141,
+      "season": 6,
+      "episode_in_season": 20,
+      "title": "The One with Mac and C.H.E.E.S.E.",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Doty Abrams",
+      "air_date": "April 13, 2000",
+      "us_viewers_in_millions": 18.8
+    },
+    {
+      "episode_number": 142,
+      "season": 6,
+      "episode_in_season": 21,
+      "title": "The One Where Ross Meets Elizabeth's Dad",
+      "directed_by": "Michael Lembeck",
+      "written_by": "Story by : David J. LaganaTeleplay by : Scott Silveri",
+      "air_date": "April 27, 2000",
+      "us_viewers_in_millions": 20.6
+    },
+    {
+      "episode_number": 143,
+      "season": 6,
+      "episode_in_season": 22,
+      "title": "The One Where Paul's the Man",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Story by : Brian CaldirolaTeleplay by : Sherry Bilsing-Graham & Ellen Plummer",
+      "air_date": "May 4, 2000",
+      "us_viewers_in_millions": 20
+    },
+    {
+      "episode_number": 144,
+      "season": 6,
+      "episode_in_season": 23,
+      "title": "The One with the Ring",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Ted Cohen & Andrew Reich",
+      "air_date": "May 11, 2000",
+      "us_viewers_in_millions": 20.9
+    },
+    {
+      "episode_number": 145,
+      "season": 6,
+      "episode_in_season": 24,
+      "title": "The One with the Proposal",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Shana Goldberg-Meehan & Scott SilveriAndrew Reich & Ted Cohen",
+      "air_date": "May 18, 2000",
+      "us_viewers_in_millions": 30.7
+    },
+    {
+      "episode_number": 146,
+      "season": 6,
+      "episode_in_season": 25,
+      "title": "The One with the Proposal",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Shana Goldberg-Meehan & Scott SilveriAndrew Reich & Ted Cohen",
+      "air_date": "May 18, 2000",
+      "us_viewers_in_millions": 30.7
+    },
+    {
+      "episode_number": 147,
+      "season": 7,
+      "episode_in_season": 1,
+      "title": "The One with Monica's Thunder",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Story by : Wil CalhounTeleplay by : David Crane & Marta Kauffman",
+      "air_date": "October 12, 2000",
+      "us_viewers_in_millions": 25.54
+    },
+    {
+      "episode_number": 148,
+      "season": 7,
+      "episode_in_season": 2,
+      "title": "The One with Rachel's Book",
+      "directed_by": "Michael Lembeck",
+      "written_by": "Andrew Reich & Ted Cohen",
+      "air_date": "October 12, 2000",
+      "us_viewers_in_millions": 27.93
+    },
+    {
+      "episode_number": 149,
+      "season": 7,
+      "episode_in_season": 3,
+      "title": "The One with Phoebe's Cookies",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Sherry Bilsing & Ellen Plummer",
+      "air_date": "October 19, 2000",
+      "us_viewers_in_millions": 22.7
+    },
+    {
+      "episode_number": 150,
+      "season": 7,
+      "episode_in_season": 4,
+      "title": "The One with Rachel's Assistant",
+      "directed_by": "David Schwimmer",
+      "written_by": "Brian Boyle",
+      "air_date": "October 26, 2000",
+      "us_viewers_in_millions": 22.66
+    },
+    {
+      "episode_number": 151,
+      "season": 7,
+      "episode_in_season": 5,
+      "title": "The One with the Engagement Picture",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Story by : Earl DavisTeleplay by : Patty Lin",
+      "air_date": "November 2, 2000",
+      "us_viewers_in_millions": 24.43
+    },
+    {
+      "episode_number": 152,
+      "season": 7,
+      "episode_in_season": 6,
+      "title": "The One with the Nap Partners",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Brian Buckner & Sebastian Jones",
+      "air_date": "November 9, 2000",
+      "us_viewers_in_millions": 22.01
+    },
+    {
+      "episode_number": 153,
+      "season": 7,
+      "episode_in_season": 7,
+      "title": "The One with Ross's Library Book",
+      "directed_by": "David Schwimmer",
+      "written_by": "Scott Silveri",
+      "air_date": "November 16, 2000",
+      "us_viewers_in_millions": 23.73
+    },
+    {
+      "episode_number": 154,
+      "season": 7,
+      "episode_in_season": 8,
+      "title": "The One Where Chandler Doesn't Like Dogs",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Patty Lin",
+      "air_date": "November 23, 2000",
+      "us_viewers_in_millions": 16.57
+    },
+    {
+      "episode_number": 155,
+      "season": 7,
+      "episode_in_season": 9,
+      "title": "The One with All the Candy",
+      "directed_by": "David Schwimmer",
+      "written_by": "Wil Calhoun",
+      "air_date": "December 7, 2000",
+      "us_viewers_in_millions": 21.08
+    },
+    {
+      "episode_number": 156,
+      "season": 7,
+      "episode_in_season": 10,
+      "title": "The One with the Holiday Armadillo",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Gregory S. Malins",
+      "air_date": "December 14, 2000",
+      "us_viewers_in_millions": 23.26
+    },
+    {
+      "episode_number": 157,
+      "season": 7,
+      "episode_in_season": 11,
+      "title": "The One with All the Cheesecakes",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Shana Goldberg-Meehan",
+      "air_date": "January 4, 2001",
+      "us_viewers_in_millions": 24.37
+    },
+    {
+      "episode_number": 158,
+      "season": 7,
+      "episode_in_season": 12,
+      "title": "The One Where They're Up All Night",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Zachary Rosenblatt",
+      "air_date": "January 11, 2001",
+      "us_viewers_in_millions": 22.86
+    },
+    {
+      "episode_number": 159,
+      "season": 7,
+      "episode_in_season": 13,
+      "title": "The One Where Rosita Dies",
+      "directed_by": "Stephen Prime",
+      "written_by": "Story by : Ellen Plummer & Sherry BilsingTeleplay by : Brian Buckner & Sebastian Jones",
+      "air_date": "February 1, 2001",
+      "us_viewers_in_millions": 22.24
+    },
+    {
+      "episode_number": 160,
+      "season": 7,
+      "episode_in_season": 14,
+      "title": "The One Where They All Turn Thirty",
+      "directed_by": "Ben Weiss",
+      "written_by": "Story by : Vanessa McCarthyTeleplay by : Ellen Plummer & Sherry Bilsing",
+      "air_date": "February 8, 2001",
+      "us_viewers_in_millions": 22.4
+    },
+    {
+      "episode_number": 161,
+      "season": 7,
+      "episode_in_season": 15,
+      "title": "The One with Joey's New Brain",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Story by : Sherry Bilsing & Ellen PlummerTeleplay by : Andrew Reich & Ted Cohen",
+      "air_date": "February 15, 2001",
+      "us_viewers_in_millions": 21.75
+    },
+    {
+      "episode_number": 162,
+      "season": 7,
+      "episode_in_season": 16,
+      "title": "The One with the Truth About London",
+      "directed_by": "David Schwimmer",
+      "written_by": "Story by : Brian Buckner & Sebastian JonesTeleplay by : Zachary Rosenblatt",
+      "air_date": "February 22, 2001",
+      "us_viewers_in_millions": 21.22
+    },
+    {
+      "episode_number": 163,
+      "season": 7,
+      "episode_in_season": 17,
+      "title": "The One with the Cheap Wedding Dress",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Story by : Brian Buckner & Sebastian JonesTeleplay by : Andrew Reich & Ted Cohen",
+      "air_date": "March 15, 2001",
+      "us_viewers_in_millions": 20.84
+    },
+    {
+      "episode_number": 164,
+      "season": 7,
+      "episode_in_season": 18,
+      "title": "The One with Joey's Award",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Story by : Sherry Bilsing & Ellen PlummerTeleplay by : Brian Boyle",
+      "air_date": "March 29, 2001",
+      "us_viewers_in_millions": 17.81
+    },
+    {
+      "episode_number": 165,
+      "season": 7,
+      "episode_in_season": 19,
+      "title": "The One with Ross and Monica's Cousin",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Andrew Reich & Ted Cohen",
+      "air_date": "April 19, 2001",
+      "us_viewers_in_millions": 16.55
+    },
+    {
+      "episode_number": 166,
+      "season": 7,
+      "episode_in_season": 20,
+      "title": "The One with Rachel's Big Kiss",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Scott Silveri & Shana Goldberg-Meehan",
+      "air_date": "April 26, 2001",
+      "us_viewers_in_millions": 16.3
+    },
+    {
+      "episode_number": 167,
+      "season": 7,
+      "episode_in_season": 21,
+      "title": "The One with the Vows",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Doty Abrams",
+      "air_date": "May 3, 2001",
+      "us_viewers_in_millions": 15.65
+    },
+    {
+      "episode_number": 168,
+      "season": 7,
+      "episode_in_season": 22,
+      "title": "The One with Chandler's Dad",
+      "directed_by": "Kevin S. Bright & Gary Halvorson",
+      "written_by": "Story by : Gregory S. MalinsTeleplay by : Brian Buckner & Sebastian Jones",
+      "air_date": "May 10, 2001",
+      "us_viewers_in_millions": 17.23
+    },
+    {
+      "episode_number": 167,
+      "season": 7,
+      "episode_in_season": 23,
+      "title": "The One with Monica and Chandler's Wedding” (part 1)",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Gregory S. MalinsMarta Kauffman & David Crane",
+      "air_date": "May 17, 2001",
+      "us_viewers_in_millions": 30.05
+    },
+    {
+      "episode_number": 170,
+      "season": 7,
+      "episode_in_season": 24,
+      "title": "The One with Monica and Chandler's Wedding” (part 2)",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Gregory S. MalinsMarta Kauffman & David Crane",
+      "air_date": "May 17, 2001",
+      "us_viewers_in_millions": 30.05
+    },
+    {
+      "episode_number": 171,
+      "season": 8,
+      "episode_in_season": 1,
+      "title": "The One After 'I Do'",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "David Crane & Marta Kauffman",
+      "air_date": "September 27, 2001",
+      "us_viewers_in_millions": 31.7
+    },
+    {
+      "episode_number": 172,
+      "season": 8,
+      "episode_in_season": 2,
+      "title": "The One with the Red Sweater",
+      "directed_by": "David Schwimmer",
+      "written_by": "Dana Klein Borkow",
+      "air_date": "October 4, 2001",
+      "us_viewers_in_millions": 30.04
+    },
+    {
+      "episode_number": 173,
+      "season": 8,
+      "episode_in_season": 3,
+      "title": "The One Where Rachel Tells...",
+      "directed_by": "Sheldon Epps",
+      "written_by": "Sherry Bilsing & Ellen Plummer",
+      "air_date": "October 11, 2001",
+      "us_viewers_in_millions": 29.2
+    },
+    {
+      "episode_number": 174,
+      "season": 8,
+      "episode_in_season": 4,
+      "title": "The One with the Videotape",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Scott Silveri",
+      "air_date": "October 18, 2001",
+      "us_viewers_in_millions": 25.58
+    },
+    {
+      "episode_number": 175,
+      "season": 8,
+      "episode_in_season": 5,
+      "title": "The One with Rachel's Date",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Brian Buckner & Sebastian Jones",
+      "air_date": "October 25, 2001",
+      "us_viewers_in_millions": 25.64
+    },
+    {
+      "episode_number": 176,
+      "season": 8,
+      "episode_in_season": 6,
+      "title": "The One with the Halloween Party",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Mark Kunerth",
+      "air_date": "November 1, 2001",
+      "us_viewers_in_millions": 26.96
+    },
+    {
+      "episode_number": 177,
+      "season": 8,
+      "episode_in_season": 7,
+      "title": "The One with the Stain",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "R. Lee Fleming Jr.",
+      "air_date": "November 8, 2001",
+      "us_viewers_in_millions": 24.24
+    },
+    {
+      "episode_number": 178,
+      "season": 8,
+      "episode_in_season": 8,
+      "title": "The One with the Stripper",
+      "directed_by": "David Schwimmer",
+      "written_by": "Andrew Reich & Ted Cohen",
+      "air_date": "November 15, 2001",
+      "us_viewers_in_millions": 26.54
+    },
+    {
+      "episode_number": 179,
+      "season": 8,
+      "episode_in_season": 9,
+      "title": "The One with the Rumor",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Shana Goldberg-Meehan",
+      "air_date": "November 22, 2001",
+      "us_viewers_in_millions": 24.24
+    },
+    {
+      "episode_number": 180,
+      "season": 8,
+      "episode_in_season": 10,
+      "title": "The One with Monica's Boots",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Story by : Robert CarlockTeleplay by : Brian Buckner & Sebastian Jones",
+      "air_date": "December 6, 2001",
+      "us_viewers_in_millions": 22.44
+    },
+    {
+      "episode_number": 181,
+      "season": 8,
+      "episode_in_season": 11,
+      "title": "The One with Ross's Step Forward\"\"The One with The Creepy Holiday Card",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Robert Carlock",
+      "air_date": "December 13, 2001",
+      "us_viewers_in_millions": 23.85
+    },
+    {
+      "episode_number": 182,
+      "season": 8,
+      "episode_in_season": 12,
+      "title": "The One Where Joey Dates Rachel",
+      "directed_by": "David Schwimmer",
+      "written_by": "Sherry Bilsing-Graham & Ellen Plummer",
+      "air_date": "January 10, 2002",
+      "us_viewers_in_millions": 25.53
+    },
+    {
+      "episode_number": 183,
+      "season": 8,
+      "episode_in_season": 13,
+      "title": "The One Where Chandler Takes a Bath",
+      "directed_by": "Ben Weiss",
+      "written_by": "Vanessa McCarthy",
+      "air_date": "January 17, 2002",
+      "us_viewers_in_millions": 29.24
+    },
+    {
+      "episode_number": 184,
+      "season": 8,
+      "episode_in_season": 14,
+      "title": "The One with the Secret Closet",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Brian Buckner & Sebastian Jones",
+      "air_date": "January 31, 2002",
+      "us_viewers_in_millions": 28.64
+    },
+    {
+      "episode_number": 185,
+      "season": 8,
+      "episode_in_season": 15,
+      "title": "The One with the Birthing Video",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Dana Klein Borkow",
+      "air_date": "February 7, 2002",
+      "us_viewers_in_millions": 28.64
+    },
+    {
+      "episode_number": 186,
+      "season": 8,
+      "episode_in_season": 16,
+      "title": "The One Where Joey Tells Rachel",
+      "directed_by": "Ben Weiss",
+      "written_by": "Andrew Reich & Ted Cohen",
+      "air_date": "February 28, 2002",
+      "us_viewers_in_millions": 27.52
+    },
+    {
+      "episode_number": 187,
+      "season": 8,
+      "episode_in_season": 17,
+      "title": "The One with the Tea Leaves",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Story by : R. Lee Fleming Jr.Teleplay by : Steven Rosenhaus",
+      "air_date": "March 7, 2002",
+      "us_viewers_in_millions": 26.3
+    },
+    {
+      "episode_number": 188,
+      "season": 8,
+      "episode_in_season": 18,
+      "title": "The One in Massapequa\"\"The One with the Zesty Guy",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Story by : Peter TibbalsTeleplay by : Mark Kunerth",
+      "air_date": "March 28, 2002",
+      "us_viewers_in_millions": 22.05
+    },
+    {
+      "episode_number": 189,
+      "season": 8,
+      "episode_in_season": 19,
+      "title": "The One with Joey's Interview",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Doty Abrams",
+      "air_date": "April 4, 2002",
+      "us_viewers_in_millions": 22.59
+    },
+    {
+      "episode_number": 190,
+      "season": 8,
+      "episode_in_season": 20,
+      "title": "The One with the Baby Shower",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Sherry Bilsing-Graham & Ellen Plummer",
+      "air_date": "April 25, 2002",
+      "us_viewers_in_millions": 22.24
+    },
+    {
+      "episode_number": 191,
+      "season": 8,
+      "episode_in_season": 21,
+      "title": "The One with the Cooking Class",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Story by : Dana Klein BorkowTeleplay by : Brian Buckner & Sebastian Jones",
+      "air_date": "May 2, 2002",
+      "us_viewers_in_millions": 23.97
+    },
+    {
+      "episode_number": 192,
+      "season": 8,
+      "episode_in_season": 22,
+      "title": "The One Where Rachel Is Late",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Shana Goldberg-Meehan",
+      "air_date": "May 9, 2002",
+      "us_viewers_in_millions": 24.32
+    },
+    {
+      "episode_number": 193,
+      "season": 8,
+      "episode_in_season": 23,
+      "title": "The One Where Rachel Has a Baby” (part 1)",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Scott Silveri Marta Kauffman & David Crane",
+      "air_date": "May 16, 2002",
+      "us_viewers_in_millions": 34.91
+    },
+    {
+      "episode_number": 194,
+      "season": 8,
+      "episode_in_season": 24,
+      "title": "The One Where Rachel Has a Baby” (part 2)",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Scott Silveri Marta Kauffman & David Crane",
+      "air_date": "May 16, 2002",
+      "us_viewers_in_millions": 34.91
+    },
+    {
+      "episode_number": 195,
+      "season": 9,
+      "episode_in_season": 1,
+      "title": "The One Where No One Proposes",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Sherry Bilsing-Graham & Ellen Plummer",
+      "air_date": "September 26, 2002",
+      "us_viewers_in_millions": 34.01
+    },
+    {
+      "episode_number": 196,
+      "season": 9,
+      "episode_in_season": 2,
+      "title": "The One Where Emma Cries",
+      "directed_by": "Sheldon Epps",
+      "written_by": "Dana Klein Borkow",
+      "air_date": "October 3, 2002",
+      "us_viewers_in_millions": 28.93
+    },
+    {
+      "episode_number": 197,
+      "season": 9,
+      "episode_in_season": 3,
+      "title": "The One with the Pediatrician",
+      "directed_by": "Roger Christiansen",
+      "written_by": "Brian Buckner & Sebastian Jones",
+      "air_date": "October 10, 2002",
+      "us_viewers_in_millions": 26.63
+    },
+    {
+      "episode_number": 198,
+      "season": 9,
+      "episode_in_season": 4,
+      "title": "The One with the Sharks",
+      "directed_by": "Ben Weiss",
+      "written_by": "Andrew Reich & Ted Cohen",
+      "air_date": "October 17, 2002",
+      "us_viewers_in_millions": 25.82
+    },
+    {
+      "episode_number": 199,
+      "season": 9,
+      "episode_in_season": 5,
+      "title": "The One with Phoebe's Birthday Dinner",
+      "directed_by": "David Schwimmer",
+      "written_by": "Scott Silveri",
+      "air_date": "October 31, 2002",
+      "us_viewers_in_millions": 24.46
+    },
+    {
+      "episode_number": 200,
+      "season": 9,
+      "episode_in_season": 6,
+      "title": "The One with the Male Nanny",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "David Crane & Marta Kauffman",
+      "air_date": "November 7, 2002",
+      "us_viewers_in_millions": 27.51
+    },
+    {
+      "episode_number": 201,
+      "season": 9,
+      "episode_in_season": 7,
+      "title": "The One with Ross's Inappropriate Song",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Robert Carlock",
+      "air_date": "November 14, 2002",
+      "us_viewers_in_millions": 25.35
+    },
+    {
+      "episode_number": 202,
+      "season": 9,
+      "episode_in_season": 8,
+      "title": "The One with Rachel's Other Sister",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Shana Goldberg-Meehan",
+      "air_date": "November 21, 2002",
+      "us_viewers_in_millions": 26.76
+    },
+    {
+      "episode_number": 203,
+      "season": 9,
+      "episode_in_season": 9,
+      "title": "The One with Rachel's Phone Number",
+      "directed_by": "Ben Weiss",
+      "written_by": "Mark Kunerth",
+      "air_date": "December 5, 2002",
+      "us_viewers_in_millions": 25.43
+    },
+    {
+      "episode_number": 204,
+      "season": 9,
+      "episode_in_season": 10,
+      "title": "The One with Christmas in Tulsa",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Doty Abrams",
+      "air_date": "December 12, 2002",
+      "us_viewers_in_millions": 22.29
+    },
+    {
+      "episode_number": 205,
+      "season": 9,
+      "episode_in_season": 11,
+      "title": "The One Where Rachel Goes Back to Work",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Story by : Judd RubinTeleplay by : Peter Tibbals",
+      "air_date": "January 9, 2003",
+      "us_viewers_in_millions": 23.67
+    },
+    {
+      "episode_number": 206,
+      "season": 9,
+      "episode_in_season": 12,
+      "title": "The One with Phoebe's Rats",
+      "directed_by": "Ben Weiss",
+      "written_by": "Story by : Dana Klein BorkowTeleplay by : Brian Buckner & Sebastian Jones",
+      "air_date": "January 16, 2003",
+      "us_viewers_in_millions": 23.66
+    },
+    {
+      "episode_number": 207,
+      "season": 9,
+      "episode_in_season": 13,
+      "title": "The One Where Monica Sings",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Story by : Sherry Bilsing-Graham & Ellen PlummerTeleplay by : Steven Rosenhaus",
+      "air_date": "January 30, 2003",
+      "us_viewers_in_millions": 25.82
+    },
+    {
+      "episode_number": 208,
+      "season": 9,
+      "episode_in_season": 14,
+      "title": "The One with the Blind Dates",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Sherry Bilsing-Graham & Ellen Plummer",
+      "air_date": "February 6, 2003",
+      "us_viewers_in_millions": 23.37
+    },
+    {
+      "episode_number": 209,
+      "season": 9,
+      "episode_in_season": 15,
+      "title": "The One with the Mugging",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Peter Tibbals",
+      "air_date": "February 13, 2003",
+      "us_viewers_in_millions": 20.85
+    },
+    {
+      "episode_number": 210,
+      "season": 9,
+      "episode_in_season": 16,
+      "title": "The One with the Boob Job",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Mark Kunerth",
+      "air_date": "February 20, 2003",
+      "us_viewers_in_millions": 19.52
+    },
+    {
+      "episode_number": 211,
+      "season": 9,
+      "episode_in_season": 17,
+      "title": "The One with the Memorial Service",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Story by : Robert CarlockTeleplay by : Brian Buckner & Sebastian Jones",
+      "air_date": "March 13, 2003",
+      "us_viewers_in_millions": 21
+    },
+    {
+      "episode_number": 212,
+      "season": 9,
+      "episode_in_season": 18,
+      "title": "The One with the Lottery",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Story by : Brian Buckner & Sebastian JonesTeleplay by : Sherry Bilsing-Graham & Ellen Plummer",
+      "air_date": "April 3, 2003",
+      "us_viewers_in_millions": 20.79
+    },
+    {
+      "episode_number": 213,
+      "season": 9,
+      "episode_in_season": 19,
+      "title": "The One with Rachel's Dream",
+      "directed_by": "Terry Hughes",
+      "written_by": "Story by : Dana Klein BorkowTeleplay by : Mark Kunerth",
+      "air_date": "April 17, 2003",
+      "us_viewers_in_millions": 18.25
+    },
+    {
+      "episode_number": 214,
+      "season": 9,
+      "episode_in_season": 20,
+      "title": "The One with the Soap Opera Party",
+      "directed_by": "Sheldon Epps",
+      "written_by": "Story by : Shana Goldberg-MeehanTeleplay by : Andrew Reich & Ted Cohen",
+      "air_date": "April 24, 2003",
+      "us_viewers_in_millions": 20.71
+    },
+    {
+      "episode_number": 215,
+      "season": 9,
+      "episode_in_season": 21,
+      "title": "The One with the Fertility Test",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Story by : Scott SilveriTeleplay by : Robert Carlock",
+      "air_date": "May 1, 2003",
+      "us_viewers_in_millions": 19.03
+    },
+    {
+      "episode_number": 216,
+      "season": 9,
+      "episode_in_season": 22,
+      "title": "The One with the Donor",
+      "directed_by": "Ben Weiss",
+      "written_by": "Andrew Reich & Ted Cohen",
+      "air_date": "May 8, 2003",
+      "us_viewers_in_millions": 19.55
+    },
+    {
+      "episode_number": 217,
+      "season": 9,
+      "episode_in_season": 23,
+      "title": "The One in Barbados” (part 1)",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Shana Goldberg-Meehan & Scott SilveriMarta Kauffman & David Crane",
+      "air_date": "May 15, 2003",
+      "us_viewers_in_millions": 25.46
+    },
+    {
+      "episode_number": 218,
+      "season": 9,
+      "episode_in_season": 24,
+      "title": "The One in Barbados” (part 2)",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Shana Goldberg-Meehan & Scott SilveriMarta Kauffman & David Crane",
+      "air_date": "May 15, 2003",
+      "us_viewers_in_millions": 25.46
+    },
+    {
+      "episode_number": 219,
+      "season": 10,
+      "episode_in_season": 1,
+      "title": "The One After Joey and Rachel Kiss",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Andrew Reich & Ted Cohen",
+      "air_date": "September 25, 2003",
+      "us_viewers_in_millions": 24.54
+    },
+    {
+      "episode_number": 220,
+      "season": 10,
+      "episode_in_season": 2,
+      "title": "The One Where Ross Is Fine",
+      "directed_by": "Ben Weiss",
+      "written_by": "Sherry Bilsing-Graham & Ellen Plummer",
+      "air_date": "October 2, 2003",
+      "us_viewers_in_millions": 22.38
+    },
+    {
+      "episode_number": 221,
+      "season": 10,
+      "episode_in_season": 3,
+      "title": "The One with Ross's Tan",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Brian Buckner",
+      "air_date": "October 9, 2003",
+      "us_viewers_in_millions": 21.87
+    },
+    {
+      "episode_number": 222,
+      "season": 10,
+      "episode_in_season": 4,
+      "title": "The One with the Cake",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Robert Carlock",
+      "air_date": "October 23, 2003",
+      "us_viewers_in_millions": 18.77
+    },
+    {
+      "episode_number": 223,
+      "season": 10,
+      "episode_in_season": 5,
+      "title": "The One Where Rachel's Sister Babysits",
+      "directed_by": "Roger Christiansen",
+      "written_by": "Dana Klein Borkow",
+      "air_date": "October 30, 2003",
+      "us_viewers_in_millions": 19.37
+    },
+    {
+      "episode_number": 224,
+      "season": 10,
+      "episode_in_season": 6,
+      "title": "The One with Ross's Grant",
+      "directed_by": "Ben Weiss",
+      "written_by": "Sebastian Jones",
+      "air_date": "November 6, 2003",
+      "us_viewers_in_millions": 20.38
+    },
+    {
+      "episode_number": 225,
+      "season": 10,
+      "episode_in_season": 7,
+      "title": "The One with the Home Study",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Mark Kunerth",
+      "air_date": "November 13, 2003",
+      "us_viewers_in_millions": 20.21
+    },
+    {
+      "episode_number": 226,
+      "season": 10,
+      "episode_in_season": 8,
+      "title": "The One with the Late Thanksgiving",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Shana Goldberg-Meehan",
+      "air_date": "November 20, 2003",
+      "us_viewers_in_millions": 20.66
+    },
+    {
+      "episode_number": 227,
+      "season": 10,
+      "episode_in_season": 9,
+      "title": "The One with the Birth Mother",
+      "directed_by": "David Schwimmer",
+      "written_by": "Scott Silveri",
+      "air_date": "January 8, 2004",
+      "us_viewers_in_millions": 25.49
+    },
+    {
+      "episode_number": 228,
+      "season": 10,
+      "episode_in_season": 10,
+      "title": "The One Where Chandler Gets Caught",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Doty Abrams",
+      "air_date": "January 15, 2004",
+      "us_viewers_in_millions": 26.68
+    },
+    {
+      "episode_number": 229,
+      "season": 10,
+      "episode_in_season": 11,
+      "title": "The One Where the Stripper Cries",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "David Crane & Marta Kauffman",
+      "air_date": "February 5, 2004",
+      "us_viewers_in_millions": 24.91
+    },
+    {
+      "episode_number": 230,
+      "season": 10,
+      "episode_in_season": 12,
+      "title": "The One with Phoebe's Wedding",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Robert Carlock & Dana Klein Borkow",
+      "air_date": "February 12, 2004",
+      "us_viewers_in_millions": 25.9
+    },
+    {
+      "episode_number": 231,
+      "season": 10,
+      "episode_in_season": 13,
+      "title": "The One Where Joey Speaks French",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Sherry Bilsing-Graham & Ellen Plummer",
+      "air_date": "February 19, 2004",
+      "us_viewers_in_millions": 24.27
+    },
+    {
+      "episode_number": 232,
+      "season": 10,
+      "episode_in_season": 14,
+      "title": "The One with Princess Consuela",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Story by : Robert CarlockTeleplay by : Tracy Reilly",
+      "air_date": "February 26, 2004",
+      "us_viewers_in_millions": 22.83
+    },
+    {
+      "episode_number": 233,
+      "season": 10,
+      "episode_in_season": 15,
+      "title": "The One Where Estelle Dies",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Story by : Mark KunerthTeleplay by : David Crane & Marta Kauffman",
+      "air_date": "April 22, 2004",
+      "us_viewers_in_millions": 22.64
+    },
+    {
+      "episode_number": 234,
+      "season": 10,
+      "episode_in_season": 16,
+      "title": "The One with Rachel's Going Away Party",
+      "directed_by": "Gary Halvorson",
+      "written_by": "Andrew Reich & Ted Cohen",
+      "air_date": "April 29, 2004",
+      "us_viewers_in_millions": 24.51
+    },
+    {
+      "episode_number": 235,
+      "season": 10,
+      "episode_in_season": 17,
+      "title": "The Last One” (part 1)",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Marta Kauffman & David Crane",
+      "air_date": "May 6, 2004",
+      "us_viewers_in_millions": 52.46
+    },
+    {
+      "episode_number": 236,
+      "season": 10,
+      "episode_in_season": 18,
+      "title": "The Last One” (part 2)",
+      "directed_by": "Kevin S. Bright",
+      "written_by": "Marta Kauffman & David Crane",
+      "air_date": "May 6, 2004",
+      "us_viewers_in_millions": 52.46
+    }
+  ]
