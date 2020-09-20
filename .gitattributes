@@ -1,4 +1,0 @@
-data/business/postal-codes-canada/data.json filter=lfs diff=lfs merge=lfs -text
-data/business/postal-codes-canada/data.csv filter=lfs diff=lfs merge=lfs -text
-data/business/postal-codes-usa/data.json filter=lfs diff=lfs merge=lfs -text
-data/business/postal-codes-usa/data.csv filter=lfs diff=lfs merge=lfs -text
