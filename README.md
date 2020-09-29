@@ -1,5 +1,5 @@
 # Open Data
-A collection of data files you can use for any project. Checkout [dedolist.com](https://dedolist.com) for easier access to the data in this repo.
+A collection of data files you can use for any project. Checkout [dedolist.com](https://dedolist.com) for easier access to the data in this repo including a FREE [Full featured API](https://dedolist.com/api-docs). 
 
 ## License
 
